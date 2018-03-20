@@ -1,5 +1,22 @@
 # The Designer’s Code of Ethics
 
+
+* [A designer is first and foremost a human being.](#a-designer-is-first-and-foremost-a-human-being)
+* [A designer is responsible for the work they put into the world.](#a-designer-is-responsible-for-the-work-they-put-into-the-world)
+* [A designer values impact over form.](#a-designer-values-impact-over-form)
+* [A designer owes the people who hire them not just their labor, but their counsel.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
+* [A designer welcomes criticism.](#a-designer-welcomes-criticism)
+* [A designer strives to know their audience](#a-designer-strives-to-know-their-audience)
+* [A designer does not believe in edge cases.](#a-designer-does-not-believe-in-edge-cases)
+* [A designer is part of a professional community.](#a-designer-is-part-of-a-professional-community)
+* [A designer welcomes a diverse and competitive field.](#a-designer-welcomes-a-diverse-and-competitive-field)
+* [A designer takes time for self-reflection.](#a-designer-takes-time-for-self-reflection)
+
+
+***
+
+
+
 ### A designer is first and foremost a human being.
 
 Before you are a designer, you are a human being. Like every other human being on the planet, you are part of the social contract. We share a planet. By choosing to be a designer you are choosing to impact the people who come in contact with your work, you can either help or hurt them with your actions. The effect of what you put into the fabric of society should always be a key consideration in your work.
