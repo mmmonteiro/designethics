@@ -1,6 +1,6 @@
-#The Designer's Code of Ethics
+# The Designer's Code of Ethics
 
-###A designer is first and foremost a human being.
+### A designer is first and foremost a human being.
 
 Before you are a designer, you are a human being. Like every other human being on the planet, you are part of the social contract. We share a planet. By choosing to be a designer you are choosing to impact the people who come in contact with your work, you can either help or hurt them with your actions. The effect of what you put into the fabric of society should always be a key consideration in your work.
 
