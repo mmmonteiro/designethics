@@ -5,4 +5,5 @@ Design needs a code of ethics. I've taken a stab at it. But together we can impr
 Looking forward to your pull requests.
 
 [English](english.md)
+
 [French](french.md)
