@@ -1,4 +1,4 @@
-# The Designer's Code of Ethics
+# The Designer’s Code of Ethics
 
 ### A designer is first and foremost a human being.
 
