@@ -20,10 +20,10 @@ Looking forward to your pull requests.
 
 ## Translations
 
+* [Deutsch](de_DE.md)
+
 * [English](en_US.md)
 
 * [Español](es_ES.md)
 
 * [Français](fr_FR.md)
-
-* [German](de_DE.md)
