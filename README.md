@@ -8,7 +8,7 @@ examples:
 - General English: `en.md`
 - UK English: `en_UK.md`
 
-[List of Langauge Codes](https://www.w3schools.com/tags/ref_language_codes.asp)
+[List of Language Codes](https://www.w3schools.com/tags/ref_language_codes.asp)
 
 [List of Country Codes](https://www.w3schools.com/tags/ref_country_codes.asp)
 
