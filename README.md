@@ -21,3 +21,5 @@ Looking forward to your pull requests.
 [Español](es_ES.md)
 
 [Français](fr_FR.md)
+
+[Deutsch](de_De.md)
