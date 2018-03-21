@@ -19,3 +19,5 @@ Looking forward to your pull requests.
 [English](en_US.md)
 
 [Français](fr_FR.md)
+
+[Español](es_ES.md)
