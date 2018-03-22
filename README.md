@@ -16,7 +16,7 @@ And make sure to edit this README.md to add a link to your translation!
 
 Looking forward to your pull requests.
 
-*** 
+***
 
 ## Translations
 
