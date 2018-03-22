@@ -28,4 +28,4 @@ Looking forward to your pull requests.
 
 * [Français](fr_FR.md)
 
-* [Norsk (Bokmål)](no_NB.md)
+* [Norsk (Bokmål)](nb_NO.md)
