@@ -20,6 +20,8 @@ Looking forward to your pull requests.
 
 ## Translations
 
+* [العَرَبِيَّة](ar.md)
+
 * [Deutsch](de_DE.md)
 
 * [English](en_US.md)
