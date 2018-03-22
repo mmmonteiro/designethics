@@ -27,3 +27,5 @@ Looking forward to your pull requests.
 * [Español](es_ES.md)
 
 * [Français](fr_FR.md)
+
+* [Norsk (Bokmål)](no_NB.md)
