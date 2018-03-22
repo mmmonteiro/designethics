@@ -14,7 +14,7 @@
 
 ***
 
-### Un Profesional del Diseño antes que nada un ser humano.
+### Un Profesional del Diseño es antes que nada un ser humano.
 ### Un Profesional del Diseño es responsable del trabajo que publica.
 ### Un Profesional del Diseño valora el impacto por encima de la forma.
 ### Un Profesional del Diseño debe proporcionar a la gente que le contrata, no solo su trabajo si no también su consejo.
