@@ -28,6 +28,8 @@ Looking forward to your pull requests.
 
 * [Français](fr_FR.md)
 
+* [Indonesian](id_ID.md)
+
 * [Norsk (Bokmål)](nb_NO.md)
 
-* [Indonesian](id_ID.md)
+
