@@ -29,3 +29,5 @@ Looking forward to your pull requests.
 * [Français](fr_FR.md)
 
 * [Norsk (Bokmål)](nb_NO.md)
+
+* [Indonesian](id_ID.md)
