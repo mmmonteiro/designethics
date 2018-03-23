@@ -18,11 +18,13 @@ And make sure to edit this README.md to add a link to your translation!
 
 Looking forward to your pull requests.
 
-*** 
+***
 
 ## Translations
 
 * [العَرَبِيَّة](ar.md)
+
+* [Bahasa Indonesia](id_ID.md)
 
 * [Deutsch](de_DE.md)
 
@@ -34,11 +36,8 @@ Looking forward to your pull requests.
 
 * [Français](fr_FR.md)
 
-* [Indonesian](id_ID.md)
-
 * [Nederlands](nl.md)
 
 * [Norsk (Bokmål)](nb_NO.md)
 
 * [Português](pt_PT.md)
-
