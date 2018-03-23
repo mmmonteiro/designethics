@@ -1,15 +1,15 @@
 
 # Etiske retningslinjer for designere
 
-* [En designer er først og fremst et menneske](#en-designer-er-først-og-fremst-et-menneske)
-* [En designer er ansvarlig for det de lager](#en-designer-er-ansvarlig-for-det-de-lager)
-* [En designer verdsetter innflytelse over form](#en-designer-verdsetter-innflytelse-over-form)
-* [En designer er forpliktet å gi sine oppdragsgivere sine råd og ikke kun sitt arbeid](#en-designer-er-forpliktet-å-gi-sine-oppdragsgivere-sine-råd-og-ikke-kun-sitt-arbeid)
-* [En designer ønsker kritikk](#en-designer-ønsker-kritikk)
-* [En designer søker å kjenne de man designer for](#en-designer-søker-å-kjenne-de-man-designer-for)
-* [En designer tror ikke på unntakstilfeller](#en-designer-tror-ikke-på-unntakstilfeller)
-* [En designer er en del av et profesjonelt felleskap](#en-designer-er-en-del-av-et-profesjonelt-felleskap)
-* [En designer ønsker et mangfoldig og kompetitiv felt](#en-designer-ønsker-et-mangfoldig-og-kompetitiv-felt)
+* [En designer er først og fremst et menneske](#en-designer-er-f%C3%B8rst-og-fremst-et-menneske)
+* [En designer er ansvarlig for det som lages](#en-designer-er-ansvarlig-for-det-som-lages)
+* [En designer verdsetter virkning over form](#en-designer-verdsetter-virkning-over-form)
+* [En designer er forpliktet å gi sine oppdragsgivere sine råd og ikke kun sitt arbeid](#en-designer-er-forpliktet-%C3%A5-gi-sine-oppdragsgivere-sine-r%C3%A5d-og-ikke-kun-sitt-arbeid)
+* [En designer ønsker kritikk](#en-designer-%C3%B8nsker-kritikk)
+* [En designer søker å kjenne de man designer for](#en-designer-s%C3%B8ker-%C3%A5-kjenne-de-man-designer-for)
+* [En designer tror ikke på unntakstilfeller](#en-designer-tror-ikke-p%C3%A5-unntakstilfeller)
+* [En designer tar del i et profesjonelt felleskap](#en-designer-tar-del-i-et-profesjonelt-felleskap)
+* [En designer ønsker et mangfoldig og kompetitiv felt](#en-designer-%C3%B8nsker-et-mangfoldig-og-kompetitiv-felt)
 * [En designer tar seg tid til selv-refleksjon](#en-designer-tar-seg-tid-til-selv-refleksjon)
 
 ***
@@ -69,7 +69,7 @@ De er ikke unntaktstilfeller. De er mennesker, og vi skylder dem vårt beste arb
 
 Du er en del av et profesjonelt felleskap og hvordan du opptrer og gjør din jobb påvirker alle i dette felleskapet. Akkurat som at stigende tidevann påvirker alle båtene, så vil det å drite i bassenget påvirke alle som svømmer der. Dersom du er uærlig med en kunde eller arbeidsgiver, vil designeren etter deg betale for det. Om du jobber gratis, vil designeren etter deg forventes å gjøre det samme. Dersom du ikke avstår fra å gjøre dårlig arbeid, vil designeren etter deg jobbe dobbelt så hardt for å gjøre opp for det.
 
-Mens en designer har en etisk forpliktelse til å tjene til livets opphold så godt de kan, vil det å gjøre det på andre designeres bekostning påvirke oss alle negativt. Aldri hold en annen designer foran deg for å din agenda igjennom. Dette innebærer offentlige redesign av andres arbeid, spesifikasjonsarbeid, uoppfordret arbeid, og plagiat. 
+Mens en designer har en etisk forpliktelse til å tjene til livets opphold så godt de kan, vil det å gjøre det på andre designeres bekostning påvirke oss alle negativt. Aldri hold en annen designer foran deg for å din agenda igjennom. Dette innebærer offentlige redesign av andres arbeid, spesifikasjonsarbeid, uoppfordret arbeid, og plagiat.
 
 En designer ønsker å bygge felleskapet, ikke splitte det.
 
@@ -87,4 +87,4 @@ Ta tiden til selvrefleksjon ved jevne mellomrom. Evaluer beslutningene du har ta
 
 Styrer du i feil retning? Fiks det. Er arbeidsplassen din en uetisk avgrunn. Finn deg en ny arbeidsplass.
 
-Din jobb er et valg. Vennligst gjør det rett.
+Ditt arbeid er et valg. Vennligst ta det rette.
