@@ -36,6 +36,7 @@ Looking forward to your pull requests.
 
 * [Indonesian](id_ID.md)
 
-* [Norsk (Bokmål)](nb_NO.md)
+* [Nederlands](nl.md)
 
+* [Norsk (Bokmål)](nb_NO.md)
 
