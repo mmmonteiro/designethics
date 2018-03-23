@@ -1,6 +1,8 @@
 # Hello
 
-Design needs a code of ethics. I've taken a stab at it. But together we can improve them. I only know what I know. And my point of view is limited to my own experiences. I'd also love to get these in other languages as well.
+Design needs a code of ethics. I've taken a stab at it. But together we can improve them. I only know what I know. And my point of view is limited to my own experiences. This text belongs to you now. Make it great.
+
+I'd also love to get these in other languages as well.
 
 To add a language, create a file of the form languageCode.md (for a general translation) or languageCode_COUNTRYCODE.md for a regional dialect.
 
@@ -20,12 +22,20 @@ Looking forward to your pull requests.
 
 ## Translations
 
+* [العَرَبِيَّة](ar.md)
+
 * [Deutsch](de_DE.md)
 
 * [English](en_US.md)
 
 * [Español](es_ES.md)
 
+* [Español - México](es_MX.md)
+
 * [Français](fr_FR.md)
 
-* [Norsk (Bokmål)](no_NB.md)
+* [Indonesian](id_ID.md)
+
+* [Norsk (Bokmål)](nb_NO.md)
+
+
