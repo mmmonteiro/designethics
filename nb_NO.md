@@ -1,6 +1,6 @@
-
 # Etiske retningslinjer for designere
 
+* [Etiske retningslinjer for designere](#etiske-retningslinjer-for-designere)
 * [En designer er først og fremst et menneske](#en-designer-er-f%C3%B8rst-og-fremst-et-menneske)
 * [En designer er ansvarlig for det som lages](#en-designer-er-ansvarlig-for-det-som-lages)
 * [En designer verdsetter virkning over form](#en-designer-verdsetter-virkning-over-form)
@@ -61,7 +61,7 @@ Facebook hevder nå å ha to milliarder brukere. 1 prosent av to milliarder bruk
 
 “When you call something an edge case, you’re really just defining the limits of what you care about.” — Eric Meyer
 
-Dette er transpersoner, som blir faller utenfor i prosjekter som krever «ekte navn». Dette er enslige mødre som faller utenfor når «begge foreldre må signere». Dette er eldre innvandrere som møter opp til valg, men finner ikke valgsedler i deres eget språk. 
+Dette er transpersoner, som blir faller utenfor i prosjekter som krever «ekte navn». Dette er enslige mødre som faller utenfor når «begge foreldre må signere». Dette er eldre innvandrere som møter opp til valg, men finner ikke valgsedler i deres eget språk.
 
 De er ikke unntaktstilfeller. De er mennesker, og vi skylder dem vårt beste arbeid.
 
@@ -87,4 +87,4 @@ Ta tiden til selvrefleksjon ved jevne mellomrom. Evaluer beslutningene du har ta
 
 Styrer du i feil retning? Fiks det. Er arbeidsplassen din en uetisk avgrunn. Finn deg en ny arbeidsplass.
 
-Ditt arbeid er et valg. Vennligst ta det rette.
+Din jobb er et valg. Vennligst ta det rett.
