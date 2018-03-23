@@ -61,9 +61,15 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-# PyCharm
+# IDEs
 .idea
 
 # Backups
 *~
 \#*\#
+
+# Mac
+.DS_Store
+.localized
+._*
+
