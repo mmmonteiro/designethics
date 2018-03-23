@@ -40,3 +40,5 @@ Looking forward to your pull requests.
 
 * [Norsk (Bokmål)](nb_NO.md)
 
+* [Português](pt_PT.md)
+
