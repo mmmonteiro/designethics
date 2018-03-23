@@ -43,66 +43,29 @@ Als ontwerper gebruik je je expertise voor anderen, zonder slechts een dienaar t
 
 ### Een ontwerper staat open voor kritiek.
 
-*Dutch translation will follow*
-
-No code of ethics should protect your work from criticism, be it from clients, the public, or other designers. Instead, you should encourage criticism in order to create better work in the future. If your work is so fragile that it can’t withstand criticism it shouldn’t exist. The time to kick the tires on your work comes before those tires hit the road. And be open to that criticism coming from anywhere.
-
-The role of criticism, when given appropriately, is to evaluate and improve work. Criticism is a gift. It makes good work better. It keeps bad work from seeing the light of day.
-
-Criticism should be asked for and welcomed at every step of the design process. You can’t fix a cake once it’s been baked. But you can increase the chances your project is successful by getting feedback early and often. It’s your responsibility to ask for criticism.
+*Vertaling volgt*
 
 
 ### Een ontwerper wil zijn publiek leren kennen.
 
-*Dutch translation will follow*
-
-Design is the intentional solution to a problem within a set of constraints. To know whether you are properly solving those problems you need to meet the people who are having them. And if you are part of a team, your team should strive to reflect those people. The more a team can reflect the audience it is solving for, the more thoroughly it can solve those problems. That team can come at a problem from different points-of-view, from different backgrounds, from different sets of needs and experiences. A team with a single point of view will never understand the constraints they need to design for as well as a team with multiple points of view.
-
-What about empathy? Empathy is a pretty word for exclusion. If you want to know how women would use something you’re designing get a woman on the team that’s designing it.
+*Vertaling volgt*
 
 
 ### Een ontwerper gelooft niet in randgevallen.
 
-*Dutch translation will follow*
-
-When you decide who you’re designing for, you’re making an implicit statement about who you’re not designing for. For years we referred to people who weren’t crucial to our products’ success as “edge cases”. We were marginalizing people. And we were making a decision that there were people in the world whose problems weren’t worth solving.
-
-Facebook now claims to have two billion users. 1% of two billion people, which most products would consider an edge case, is twenty million people. Those are the people at the margins.
-
-“When you call something an edge case, you’re really just defining the limits of what you care about.” — Eric Meyer
-These are the trans people who get caught on the edges of “real names” projects. These are the single moms who get caught on the edges of “both parents must sign” permission slips. These are the elderly immigrants who show up to vote and can’t get ballots in their native tongues.
-
-They are not edge cases. They are human beings, and we owe them our best work.
+*Vertaling volgt*
 
 
 ### Een ontwerper is deel van de professionele community
 
-*Dutch translation will follow*
-
-You are part of a professional community and the way you do your job and handle yourself professionally affects everyone in that community. Just as a rising tide affects all boats, taking a shit in the pool affects all swimmers. If you are dishonest with a client or employer, the designer behind you will pay the price. If you work for free, the designer behind you will be expected to do the same. If you do not hold your ground on doing bad work, the designer behind you will have to work twice as hard to make up for it.
-
-While a designer has an ethical obligation to earn a living to the best of their abilities and opportunities, doing it at the expense of others who share the craft is a disservice to us all. Never throw another designer under the bus to advance your own agenda. This includes public redesigns of someone else’s work, spec work, unsolicited work, and plagiarism.
-
-A designer seeks to build the community, not divide it.
+*Vertaling volgt*
 
 
 ### Een ontwerper staat open voor een competitief en divers werkveld.
 
-*Dutch translation will follow*
-
-Throughout their entire career, a designer seeks to learn. That means confronting what they do not know. That means listening to other people’s experiences. That means welcoming and encouraging people who come from diverse backgrounds, diverse cultures. That means making space at the table for people who society has historically kept down. We must make space for traditionally marginalized voices to be heard in the profession. Diversity leads to better outcomes and solutions. Diversity leads to better design.
-
-A designer keeps their ego in check, knows when to shut up and listen, is aware of their own biases and welcomes having them checked, and fights to make room for those who have been silenced.
+*Vertaling volgt*
 
 
 ### Een ontwerper neemt tijd voor zelfreflectie.
 
-*Dutch translation will follow*
-
-No one wakes up one day designing to throw their ethics out the window. It happens slowly, one slippery slope at a time. It’s a series of small decisions that might even seem fine at the time, and before you know it you’re designing filtering UI for the Walmart online gun shop.
-
-Take the time for self-reflection every few months. Evaluate the decisions you’ve made recently. Are you staying true to who you are? Or are you slowly moving your ethical goal posts a few yards at a time with each raise or stock option award?
-
-Have you veered off course? Correct it. Is your workplace an unethical hellmouth? Get another one.
-
-Your job is a choice. Please do it right.
+*Vertaling volgt*
