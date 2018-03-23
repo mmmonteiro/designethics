@@ -1,15 +1,15 @@
 # Code de déontologie du designer
 
-* [Un designer est d'abord et avant tout un être humain.](#un-designer-est-d-abord-et-avant-tout-un-etre-humain)
-* [Un designer est responsable du travail qu'il réalise et propose au monde.](#un-designer-est-responsable-du-travai-qu-il-realise-et-propose-au-monde)
-* [Un designer valorise l'impact avant la forme.](#un-designer-valorise-l-impact-avant-la-forme)
-* [Un designer doit à ceux qui l'emploient non seulement son travail, mais aussi ses conseils.](#un-designer-doit-a-ceux-qui-l-embauchent-non-seulement-son-travail-mais-aussi-ses-conseils)
+* [Un designer est d'abord et avant tout un être humain.](#un-designer-est-dabord-et-avant-tout-un-être-humain)
+* [Un designer est responsable du travail qu'il réalise et propose au monde.](#un-designer-est-responsable-du-travail-quil-réalise-et-propose-au-monde)
+* [Un designer valorise l'impact avant la forme.](#un-designer-valorise-limpact-avant-la-forme)
+* [Un designer doit à ceux qui l'emploient non seulement son travail, mais aussi ses conseils.](#un-designer-doit-à-ceux-qui-lembauchent-non-seulement-son-travail-mais-aussi-ses-conseils)
 * [Un designer accueille positiviment les critiques.](#un-designer-accueille-positivement-les-critiques)
-* [Un designer s'efforce de connaître son public.](#un-designer-s-efforce-de-connaitre-son-public)
+* [Un designer s'efforce de connaître son public.](#un-designer-sefforce-de-connaître-son-public)
 * [Un designer ne croit pas aux cas limites.](#un-designer-ne-croit-pas-aux-cas-limites)
-* [Un designer fait partie d'une communauté professionnelle.](#un-designer-fait-partie-d-une-communauté-professionnelle)
-* [Un designer est en faveur d’un domaine diversifié et concurrentiel.](#un-designer-est-en-faveur-d-un-domaine-diversifie-et-concurrentiel)
-* [Un designer se réserve du temps pour l'introspection.](#un-designer-se-reserve-du-temps-pour-l-introspection)
+* [Un designer fait partie d'une communauté professionnelle.](#un-designer-fait-partie-dune-communauté-professionnelle)
+* [Un designer est en faveur d’un domaine diversifié et concurrentiel.](#un-designer-est-en-faveur-dun-domaine-diversifié-et-concurrentiel)
+* [Un designer se réserve du temps pour l'introspection.](#un-designer-se-réserve-du-temps-pour-lintrospection)
 
 ***
 
