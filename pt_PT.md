@@ -6,7 +6,7 @@
 * [Um designer valoriza ética sobre estética.](#um-designer-valoriza-ética-sobre-estética)
 * [Um designer deve às pessoas que os contratam não apenas o seu trabalho, mas também o seu conselho.](#um-designer-deve-às-pessoas-que-os-contratam-não-apenas-o-seu-trabalho-,-mas-também-o-seu-conselho)
 * [Um designer valoriza a crítica.](#um-designer-valoriza-a-crítica)
-* [Um designer esforça-se por conhecer o seu público.](#um-designer-esforça-se-por-conhecer-o-seu público)
+* [Um designer esforça-se por conhecer o seu público.](#um-designer-esforça-se-por-conhecer-o-seu-público)
 * [Um designer não acredita em casos extremos.](#um-designer-não-acredita-em-casos-extremos)
 * [Um designer faz parte de uma comunidade profissional.](#um-designer-faz-parte-de-uma-comunidade-profissional)
 * [Um designer promove uma cultura diversificada e competitiva.](#um-designer-promove-uma-cultura-diversificada-e-competitiva)
