@@ -15,7 +15,7 @@
 
 ### Een ontwerper is allereerst en vooral een mens.
 
-Voordat je een ontwerper bent, ben je een mens. Net als ieder mens op deze planeet, ben je onderdeel van een sociale omgeving. We delen de planeet. Door te kiezen om ontwerper te worden, kies je ervoor dat mensen die in contact komen met je werk, geholpen of juist gekwetst worden door je acties. Het effect van wát jij met je werk verweeft in de maatschappij zou altijd een belangrijke overweging moeten zijn.
+Voordat je een ontwerper bent, ben je een mens. Net als ieder mens op deze planeet, ben je onderdeel van een sociale omgeving. We delen de planeet. Ontwerper zijn is een keuze en zorgt ervoor dat mensen die in contact komen met je werk geholpen of juist gekwetst worden door je acties. Het effect van wát jij met je werk verweeft in de maatschappij zou altijd een belangrijke overweging moeten zijn.
 
 Elk mens op deze planeet heeft een verplichting om de planeet in een betere staat achter te laten dan we deze vonden. Ontwerpers kunnen zich daar niet van terugtrekken.
 
