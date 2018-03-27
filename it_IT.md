@@ -1,7 +1,7 @@
 # Il Codice Etico del Designer
 
 * [Il designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)
-* [Il designer è responsabile del lavoro che immette nel mondo.](#a-designer-is-responsible-for-the-work-they-put-into-the-world)
+* [Il designer è responsabile del lavoro che immette nel mondo.](#il-designer-è-responsabile-del-lavoro-che-immette-nel-mondo)
 * [Il designer tiene più all'impatto che alla forma.](#a-designer-values-impact-over-form)
 * [Il designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
 * [Il designer accoglie le critiche.](#a-designer-welcomes-criticism)
@@ -23,12 +23,11 @@ Ogni essere umano su questo pianeta è obbligato a fare del proprio meglio per l
 
 Quando fai un lavoro che per avere successo implica disparità di stipendio o distinzioni di classe, stai fallendo nel tuo ruolo di cittadino e, conseguentemente, di designer.
 
-### A designer is responsible for the work they put into the world.
+### Il designer è responsabile del lavoro che immette nel mondo.
 
-Design is a discipline of action. You are responsible for what you put into the world. It has your name on it. And while it is certainly impossible to predict how any of your work may be used, it shouldn’t be a surprise when work that is meant to hurt someone fulfills its mission. We cannot be surprised when a gun we designed kills someone. We cannot be surprised when a database we designed to catalog immigrants gets those immigrants deported. When we knowingly produce work that is intended to harm, we are abdicating our responsibility. When we ignorantly produce work that harms others because we didn’t consider the full ramifications of that work, we are doubly guilty.
+Il design è una disciplina d'azione. Sei responsabile per ciò che immetti nel mondo. Ha il tuo nome sovraimpresso. E mentre è di fatto impossibile predire come possa essere usato il tuo lavoro, non dovrebbe sorprendere se quando tale lavoro è fatto per danneggiare qualcuno, riesce poi nel suo intento. Non possiamo sorprenderci se una pistola che abbiamo progettato uccide poi qualcuno. Non possiamo sorprenderci quando un database che abbiamo progettato per schedare gli immigrati porta poi alla loro deportazione. Quando produciamo deliberatamente un lavoro che ha l'intento di danneggiare, stiamo abdicando alle nostre responsabilità. Quando, per ignoranza, produciamo un lavoro che danneggia altri perché non ne abbiamo considerato la completa ramificazione, ci dobbiamo sentire doppiamente colpevoli.
 
-The work you bring into the world is your legacy. It will outlive you. And it will speak for you.
-
+Il lavoro che porti nel mondo è la tua eredità. Continuerà a vivere dopo di te. E parlerà per te.
 
 ### A designer values impact over form.
 
