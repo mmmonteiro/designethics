@@ -36,6 +36,8 @@ Looking forward to your pull requests.
 
 * [Français](fr_FR.md)
 
+* [Italiano](it_IT.md)
+
 * [Nederlands](nl.md)
 
 * [Norsk (Bokmål)](nb_NO.md)

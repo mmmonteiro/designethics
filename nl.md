@@ -37,14 +37,17 @@ Ontwerp leeft niet in een vacuum. De maatschappij is het grootste systeem waar w
 
 ### Een ontwerper verricht niet alleen arbeid voor diegene die hem inhuren, maar geeft ook advies.
 
-Als je wordt ingehuurd om iets te ontwerpen, wordt je ingehuurd voor je expertise. Je baan niet is niet alleen om dat werk te produceren, maar de impact van je werk ook te evalueren. Je baan is om de impact van je werk voor te leggen aan je klant of werkgever. En als die impact negatief is, is het jouw baan om dat voor te leggen aan je klant met een manier, indien mogelijk, om de negatieve impact te eliminieren. Indien dat niet mogelijk blijkt, is het jouw baan om te voorkomen dat het alsnog gebeurd. In andere woorden, je wordt niet alleen ingehuurd om een greppel te graven, maar ook te evalueren wat de economiche, sociale en ecologische gevolgen van jouw greppel. Als de greppel hier niet aan zal voldoen, dan is het jouw baan om de scheppen te verstoppen.
+Als je wordt ingehuurd om iets te ontwerpen, word je ingehuurd voor je expertise. Je taak is niet alleen om je werk te produceren, maar ook om de impact van je werk te evalueren. Je taak is om de impact van je werk voor te leggen aan je klant of werkgever. En als die impact negatief is, is het jouw taak om dat voor te leggen aan je klant met een manier, indien mogelijk, om de negatieve impact te eliminieren. Indien dat niet mogelijk blijkt, is het jouw taak om te voorkomen dat het alsnog gebeurd. In andere woorden, je wordt niet alleen ingehuurd om een greppel te graven, maar ook om te evalueren wat de economische, sociale en ecologische gevolgen van jouw greppel zijn. Als de greppel hier niet aan voldoet, dan is het jouw taak om de scheppen te verstoppen.
 
-Als ontwerper gebruik je je expertise voor anderen, zonder slechts een dienaar te zijn. Nee zeggen is een ontwerpbekwaamheid. Vragen waarom, is een ontwerpbekwaamheid. Onszelf vragen waarom we iets maken is een duizendmaal betere vraag dan ons af te vragen of we het kunnen maken.
+Als ontwerper gebruik je je expertise voor anderen, zonder slechts een dienaar te zijn. Nee zeggen is een ontwerpbekwaamheid. Vragen waarom, is een ontwerpbekwaamheid. Onszelf afvragen waarom we iets maken is een duizendmaal betere vraag dan ons af te vragen of we het kunnen maken.
 
 ### Een ontwerper staat open voor kritiek.
 
-*Vertaling volgt*
+Geen enkele ethische code zou je werk moeten beschermen tegen kritiek, of het nu van klanten, het publiek of andere ontwerpers is. In plaats daarvan zou je kritiek moeten aanmoedigen om in de toekomst beter werk te kunnen creëren. Als je werk zo kwetsbaar is dat het niet tegen kritiek bestand is, zou het niet moeten bestaan. Stel je ontwerp op de proef voordat je het de wereld in brengt. En sta open voor alle kritiek die je krijgt.
 
+De rol van kritiek, wanneer deze op de juiste manier wordt gegeven, is het evalueren en verbeteren van het werk. Kritiek is een geschenk. Het maakt goed werk beter. Het houdt slecht werk van het zien van het licht van de dag.
+
+Kritiek moet worden gevraagd en verwelkomd bij elke stap van het ontwerpproces. Je kunt een cake niet veranderen als deze eenmaal gebakken is. Maar je kunt de kans vergroten dat je project succesvol is door vroeg en vaak feedback te krijgen. Het is jouw verantwoordelijkheid om kritiek te vragen.
 
 ### Een ontwerper wil zijn publiek leren kennen.
 
