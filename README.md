@@ -43,3 +43,5 @@ Looking forward to your pull requests.
 * [Norsk (Bokmål)](nb_NO.md)
 
 * [Português](pt_PT.md)
+
+* [ру́сский язы́к](ru.md)
