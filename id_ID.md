@@ -36,44 +36,44 @@ Ketika Anda dipekerjakan untuk mendesain sesuatu, Anda direkrut untuk keahlian A
 Seorang desainer menggunakan keahlian mereka dalam melayani orang lain tanpa menjadi pelayan. Mengatakan tidak adalah sebuah keterampilan desain. Bertanya mengapa adalah keterampilan desain. Memutar matamu tidak. Bertanya pada diri sendiri mengapa kita membuat sesuatu adalah pertanyaan yang jauh lebih baik daripada bertanya pada diri sendiri apakah kita bisa mewujudkannya.
 
 ### Seorang desainer terbuka terhadap kritik.
-No code of ethics should protect your work from criticism, be it from clients, the public, or other designers. Instead, you should encourage criticism in order to create better work in the future. If your work is so fragile that it can’t withstand criticism it shouldn’t exist. The time to kick the tires on your work comes before those tires hit the road. And be open to that criticism coming from anywhere.
+Tidak ada kode etik yang melindungi karya Anda dari kritik, baik dari klien, publik, atau desainer lainnya. Sebaliknya, Anda harus mendorong kritik untuk menciptakan karya yang lebih baik di masa depan. Jika pekerjaan Anda sangat rapuh sehingga tidak tahan akan kritik, seharusnya pekerjaan Anda tidak ada. Waktu untuk mengidentifikasi dengan hati-hati pekerjaan Anda datang sebelum pekerjaan Anda berada di masyarakat. Dan terbukalah terhadap kritik yang datang dari manapun.
 
-The role of criticism, when given appropriately, is to evaluate and improve work. Criticism is a gift. It makes good work better. It keeps bad work from seeing the light of day.
+Peran kritik, ketika diberikan dengan tepat, adalah untuk mengevaluasi dan meningkatkan pekerjaan. Kritik adalah sebuah hadiah. Itu membuat pekerjaan yang baik menjadi lebih baik. Itu menjaga pekerjaan buruk hadir di dunia.
 
-Criticism should be asked for and welcomed at every step of the design process. You can’t fix a cake once it’s been baked. But you can increase the chances your project is successful by getting feedback early and often. It’s your responsibility to ask for criticism.
+Kritik haruslah diminta dan disambut di setiap langkah dalam proses desain. Anda tidak dapat memperbaiki sebuah kue setelah dipanggang. Tetapi Anda dapat meningkatkan peluang proyek Anda berhasil dengan mendapatkan umpan balik lebih awal dan lebih sering. Itu merupakan tanggung jawab Anda untuk meminta kritik.
 
 ### Seorang desainer berusaha untuk mengenali audiensnya.
-Design is the intentional solution to a problem within a set of constraints. To know whether you are properly solving those problems you need to meet the people who are having them. And if you are part of a team, your team should strive to reflect those people. The more a team can reflect the audience it is solving for, the more thoroughly it can solve those problems. That team can come at a problem from different points-of-view, from different backgrounds, from different sets of needs and experiences. A team with a single point of view will never understand the constraints they need to design for as well as a team with multiple points of view.
+Desain adalah solusi untuk sebuah masalah dalam satu kumpulan kendala. Untuk mengetahui apakah Anda benar memecahkan masalah-masalah yang ada di audiens, yang Anda butuhkan adalah untuk bertemu orang-orang yang memiliki masalah tersebut. Dan jika Anda adalah bagian dari tim, tim Anda harus berusaha untuk mencerminkan orang-orang itu. Semakin banyak tim dapat merefleksikan audiens yang dipecahkannya, akan dapat lebih fokus menyelesaikan masalah yang ada. Tim itu dapat menemukan masalah dari sebuah sudut pandang yang berbeda, dari latar belakang yang berbeda-beda, dari kumpulan kebutuhan dan pengalaman yang berbeda. Sebuah tim dengan satu sudut pandang tidak akan pernah memahami kendala yang mereka butuhkan untuk merancang solusi dan juga sama seperti tim dengan banyak sudut pandang.
 
-What about empathy? Empathy is a pretty word for exclusion. If you want to know how women would use something you’re designing get a woman on the team that’s designing it.
+Bagaimana dengan empati? Empati adalah kata yang bagus untuk pengecualian. Jika Anda ingin tahu bagaimana wanita akan menggunakan sesuatu yang Anda rancang, sertakan seorang wanita juga di tim yang mendesainnya.
 
 ### Seorang desainer tidak membenarkan kasus-kasus pinggiran.
-When you decide who you’re designing for, you’re making an implicit statement about who you’re not designing for. For years we referred to people who weren’t crucial to our products’ success as “edge cases”. We were marginalizing people. And we were making a decision that there were people in the world whose problems weren’t worth solving.
+Saat Anda memutuskan untuk siapa Anda mendesain, Anda membuat pernyataan tersirat tentang siapa yang tidak Anda rancang. Bertahun-tahun kita merujuk pada orang-orang yang tidak penting bagi keberhasilan produk sebagai "kasus tepi". Kita meminggirkan orang. Dan kita membuat keputusan bahwa ada orang-orang di dunia yang masalahnya tidak layak untuk dipecahkan.
 
-Facebook now claims to have two billion users. 1% of two billion people, which most products would consider an edge case, is twenty million people. Those are the people at the margins.
+Facebook kini mengklaim memiliki dua miliar pengguna. 1% dari dua miliar orang, yang sebagian besar produk akan mempertimbangkan kasus tepi, adalah dua puluh juta orang. Mereka termasuk orang-orang di pinggiran.
 
-“When you call something an edge case, you’re really just defining the limits of what you care about.” — Eric Meyer
-These are the trans people who get caught on the edges of “real names” projects. These are the single moms who get caught on the edges of “both parents must sign” permission slips. These are the elderly immigrants who show up to vote and can’t get ballots in their native tongues.
+“Saat Anda memanggil sesuatu yang canggih, Anda benar-benar hanya menentukan batas dari apa yang Anda pedulikan.” — Eric Meyer
+Mereka adalah orang-orang yang terjebak di pinggiran proyek "nama sebenarnya". Ini adalah ibu tunggal yang tertangkap di tepian "kedua orang tua harus menandatangani" slip izin. Ini adalah imigran lansia yang muncul untuk memberi suara dan tidak dapat memperoleh suara dalam bahasa asli mereka.
 
-They are not edge cases. They are human beings, and we owe them our best work.
+Mereka bukanlah kasus tepi. Mereka adalah manusia, dan kita berhutang pada mereka karya terbaik kita.
 
 ### Seorang desainer adalah bagian dari komunitas profesional.
-You are part of a professional community and the way you do your job and handle yourself professionally affects everyone in that community. Just as a rising tide affects all boats, taking a shit in the pool affects all swimmers. If you are dishonest with a client or employer, the designer behind you will pay the price. If you work for free, the designer behind you will be expected to do the same. If you do not hold your ground on doing bad work, the designer behind you will have to work twice as hard to make up for it.
+Anda adalah bagian dari komunitas profesional dan cara Anda melakukan pekerjaan Anda dan menangani diri Anda secara profesional mempengaruhi semua orang di komunitas itu. Sama seperti laut pasang naik yang mempengaruhi semua kapal, mengambil kotoran di kolam mempengaruhi semua perenang. Jika Anda tidak jujur dengan klien atau perusahaan, desainer di belakang Anda akan membayar harganya. Jika Anda bekerja gratis, desainer di belakang Anda akan diharapkan untuk melakukan hal yang sama. Jika Anda tidak tahan melakukan pekerjaan yang buruk, desainer di belakang Anda harus bekerja dua kali lebih sulit untuk menebusnya.
 
-While a designer has an ethical obligation to earn a living to the best of their abilities and opportunities, doing it at the expense of others who share the craft is a disservice to us all. Never throw another designer under the bus to advance your own agenda. This includes public redesigns of someone else’s work, spec work, unsolicited work, and plagiarism.
+Sementara seorang desainer memiliki kewajiban etis untuk mencari nafkah dengan kemampuan dan peluang terbaik mereka, melakukannya dengan mengorbankan orang lain yang berbagi keahlian adalah merugikan kita semua. Jangan pernah melempar desainer lain untuk memajukan agenda Anda sendiri. Ini termasuk mendesain ulang secara umum dari pekerjaan orang lain, pekerjaan spec, pekerjaan yang tidak diminta, dan plagiarisme.
 
-A designer seeks to build the community, not divide it.
+Seorang perancang berusaha membangun komunitas, bukan membaginya.
 
 ### Seorang desainer terbuka terhadap bidang yang beragam dan kompetitif.
-Throughout their entire career, a designer seeks to learn. That means confronting what they do not know. That means listening to other people’s experiences. That means welcoming and encouraging people who come from diverse backgrounds, diverse cultures. That means making space at the table for people who society has historically kept down. We must make space for traditionally marginalized voices to be heard in the profession. Diversity leads to better outcomes and solutions. Diversity leads to better design.
+Sepanjang karier mereka, seorang desainer berusaha untuk belajar. Itu berarti menghadapi apa yang tidak mereka ketahui. Itu berarti mendengarkan pengalaman orang lain. Itu berarti menyambut dan mendorong orang-orang yang berasal dari berbagai latar belakang, beragam budaya. Itu berarti membuat ruang untuk orang-orang yang secara sejarah terus menurun. Kita harus memberi ruang bagi suara-suara yang secara tradisional terpinggirkan untuk didengar di dalam profesi kita. Keragaman mengarah pada hasil dan solusi yang lebih baik. Keragaman mengarah pada desain yang lebih baik.
 
-A designer keeps their ego in check, knows when to shut up and listen, is aware of their own biases and welcomes having them checked, and fights to make room for those who have been silenced.
+Seorang desainer menjaga ego mereka dalam pengawasan, tahu kapan harus diam dan mendengarkan, sadar akan bias mereka sendiri dan menyambut jika mereka diperiksa dan berjuang untuk memberi ruang bagi mereka yang telah dibungkam.
 
 ### Seorang desainer membutuhkan waktu untuk refleksi diri.
-No one wakes up one day designing to throw their ethics out the window. It happens slowly, one slippery slope at a time. It’s a series of small decisions that might even seem fine at the time, and before you know it you’re designing filtering UI for the Walmart online gun shop.
+Tidak ada yang bangun pada satu hari merancang untuk membuang etika mereka keluar dari jendela. Itu terjadi secarala perlahan, satu lereng licin pada satu waktu. Ini adalah serangkaian keputusan kecil yang mungkin tampak baik-baik saja pada saat itu dan sebelum Anda tahu itu Anda merancang UI penyaringan untuk toko senjata online di Walmart.
 
-Take the time for self-reflection every few months. Evaluate the decisions you’ve made recently. Are you staying true to who you are? Or are you slowly moving your ethical goal posts a few yards at a time with each raise or stock option award?
+Luangkan waktu untuk refleksi diri setiap beberapa bulan. Evaluasilah keputusan yang Anda buat baru-baru ini. Apakah Anda mengetahui siapa diri Anda? Atau apakah Anda perlahan-lahan memindahkan tujuan etis Anda beberapa yard setiap kali dengan setiap kenaikan atau opsi saham penghargaan?
 
-Have you veered off course? Correct it. Is your workplace an unethical hellmouth? Get another one.
+Sudahkah Anda berbelok dari jalur? Perbaiki itu. Apakah tempat kerja Anda adalah sebuah neraka yang tidak etis? Dapatkanlah yang lain.
 
-Your job is a choice. Please do it right.
+Pekerjaan Anda adalah sebuah pilihan. Tolong lakukan dengan benar.
