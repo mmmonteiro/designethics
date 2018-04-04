@@ -58,7 +58,14 @@ En empathie dan? Empathie is een duur woord voor uitsluiting. Als je wilt weten 
 
 ### Een ontwerper gelooft niet in randgevallen.
 
-*Vertaling volgt*
+Wanneer je besloten hebt voor wie je iets ontwerpt, maak je een impliciete verklaring voor wie je het níet ontwerpt. Voor jaren hebben wij verwezen naar mensen wie niet cruciaal waren voor onze producten als "edge cases". Hierbij marginaliseerde wij groepen. En wij maakte de beslissing dat er groepen waren in de wereld wiens problemen het niet waard waren om opgelost te worden.
+
+Facebook claimt dat het nu twee miljard gebruikers heeft. 1% van twee miljard mensen, wat de meeste producten als edge cases zien, is twintig miljoen mensen. Dit zijn de mensen aan randen van de samenleving.
+
+"Wanneer je iets een edge case benoemt, benoem je eigenlijk niets meer dan de grenzen waar jij om geeft." - Eric Meyer Dit zijn de transgenders die verwart raken aan de randen van "real name" projecten. Dit zijn de alleenstaande moeders die tussen wal en schip raken wanneer beide ouders een machtiging moeten ondertekenen. Dit zijn de bejaarde immigranten die op komen dagen om te stemmen maar geen stembiljet in hun eigen taal kunnen krijgen.
+
+Dit zijn geen randgevallen. Dit zijn mensen, en wij zijn hen niets minder dan ons beste werk verschuldigt.
+
 
 
 ### Een ontwerper is deel van de professionele community
