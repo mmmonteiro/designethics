@@ -51,7 +51,9 @@ Kritiek moet worden gevraagd en verwelkomd bij elke stap van het ontwerpproces. 
 
 ### Een ontwerper wil zijn publiek leren kennen.
 
-*Vertaling volgt*
+Ontwerp is het opzettelijke oplossing voor een probleem onder bepaalde voorwaarden. Om er zeker van te zijn dat deze problemen daadwerkelijk opgelost worden is het noodzakelijk om de mensen met deze problemen te ontmoeten. En wanneer je een onderdeel bent van een team, is het belangrijk om te streven naar een team dat representatief is voor deze groep mensen. Hoe beter een team haar doelgroep representeert, des te beter is dit team in staat de problemen op te lossen. Dat team kan een probleem benaderen vanuit verschillende invalshoeken, met verschillende achtergronden, en met verschillende behoeften en ervaringen. Een team met een enkel oogpunt zal nooit de voorwaarden waarvoor het ontwerpt zo goed begrijpen als een team dat verschillende invalshoeken bezit.
+
+En empathie dan? Empathie is een duur woord voor uitsluiting. Als je wilt weten hoe vrouwen gebruikmaken van iets dat jij ontwerpt zorg ervoor dat er een vrouw in het team zit dat dit product ontwerpt.
 
 
 ### Een ontwerper gelooft niet in randgevallen.
