@@ -3,7 +3,7 @@
 * [Il designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)
 * [Il designer è responsabile del lavoro che immette nel mondo.](#il-designer-è-responsabile-del-lavoro-che-immette-nel-mondo)
 * [Il designer tiene più all'impatto che alla forma.](#a-designer-values-impact-over-form)
-* [Il designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
+* [Il designer ha l'obbligo di manodopera e consiglio.](#il-designer-ha-lobbligo-di-manodopera-e-consiglio)
 * [Il designer accoglie le critiche.](#a-designer-welcomes-criticism)
 * [Il designer ambisce a conoscere il proprio pubblico.](#a-designer-strives-to-know-their-audience)
 * [Il designer non crede nei casi limite.](#a-designer-does-not-believe-in-edge-cases)
@@ -36,12 +36,11 @@ We need to fear the consequences of our work more than we love the cleverness of
 Design does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the value of our work based on that impact, rather than any aesthetic considerations. An object that is designed to harm people cannot be said to be well-designed, no matter how aesthetically pleasing it might be, because to design it well is to design it to harm others. Nothing a totalitarian regime designs is well-designed because it has been designed by a totalitarian regime.
 
 
-### A designer owes the people who hire them not just their labor, but their counsel.
+### Il designer ha l'obbligo di manodopera e consiglio.
 
-When you are hired to design something, you are hired for your expertise. Your job is not just to produce that work but to evaluate the impact of that work. Your job is to relay the impact of that work to your client or employer. And should that impact be negative, it is your job to relay that to your client along with a way, if possible, to eliminate the negative impact of the work. If it’s impossible to eliminate the negative impact of the work, it’s your job to stop it from seeing the light of day. In other words, you’re not hired to just dig a ditch, but to evaluate the economic, sociological, and ecological impact of that ditch. If the ditch fails those tests, it’s your job to destroy the shovels.
+Quando vieni assunto per progettare qualcosa, sei assunto per la tua competenza. Il tuo lavoro non è solo di creare ma anche di valutare l'effetto delle tue creazioni. Il tuo lavoro è comunicare l'effetto di quelle creazioni al tuo cliente o al tuo capo. E se quell'effetto dovesse risultare negativo, è il lavoro è di comunicare al tuo cliente un modo, se possibile, di eliminare l'effetto negativo della tua creazione. Se è impossibile eliminare l'effetto negativo della tua creazione, è il tuo lavoro assicurarti che tale creazione non venga alla luce. In altre parole, non vieni assunto solo per scavare un fosso, quanto invece per valutare gli effetti economici, sociologici ed ecologici di quel fosso. Qualora il fosso dovesse fallire questi test, è il tuo lavoro distruggere le pale da usare negli scavi.
 
-A designer uses their expertise in the service of others without being a servant. Saying no is a design skill. Asking why is a design skill. Rolling your eyes is not. Asking ourselves why we are making something is an infinitely better question than asking ourselves whether we can make it.
-
+Un designer sfrutta le sue competenze al servizio di altri senza diventare un servitore. Dire no è un'abilità progettuale. Chiedere "perché?" è un'abilità progettuale. Alzare gli occhi al cielo non lo è. Chiederci perché stiamo facendo qualcosa è una domanda infinitamente migliore rispetto a chiederci se siamo capaci di realizzarla.
 
 ### A designer welcomes criticism.
 
