@@ -2,8 +2,8 @@
 
 * [Il designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)
 * [Il designer è responsabile del lavoro che immette nel mondo.](#il-designer-è-responsabile-del-lavoro-che-immette-nel-mondo)
-* [Il designer tiene più all'impatto che alla forma.](#a-designer-values-impact-over-form)
 * [Il designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
+* [Il designer tiene più all'impatto che alla forma.](#il-designer-preferisce-leffetto-allo-stile)
 * [Il designer accoglie le critiche.](#a-designer-welcomes-criticism)
 * [Il designer ambisce a conoscere il proprio pubblico.](#a-designer-strives-to-know-their-audience)
 * [Il designer non crede nei casi limite.](#a-designer-does-not-believe-in-edge-cases)
@@ -29,11 +29,11 @@ Il design è una disciplina d'azione. Sei responsabile per ciò che immetti nel 
 
 Il lavoro che porti nel mondo è la tua eredità. Continuerà a vivere dopo di te. E parlerà per te.
 
-### A designer values impact over form.
+### Il designer preferisce l'effetto allo stile
 
-We need to fear the consequences of our work more than we love the cleverness of our ideas.
+Dobbiamo temere le conseguenze del nostro lavoro più di quanto amiamo l'astuzia delle nostre idee.
 
-Design does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the value of our work based on that impact, rather than any aesthetic considerations. An object that is designed to harm people cannot be said to be well-designed, no matter how aesthetically pleasing it might be, because to design it well is to design it to harm others. Nothing a totalitarian regime designs is well-designed because it has been designed by a totalitarian regime.
+Il design non esiste nel vuoto. La società è il sistema più grande sul quale possiamo avere un effetto e tutto ciò che fai è parte di quel sistema, sia il bello che il brutto. Alla fine dobbiamo giudicare il valore del nostro lavoro basandoci su quell'effetto, piuttosto che su qualunque considerazione di natura estetica. Un oggetto che è stato progettato per provocare del danno alle persone non può essere considerato "ben progettato", non importa quanto esteticamente accattivante esso possa apparire, perché per progettarlo adeguatamente lo si progetta per provocare del danno agli altri. Qualunque cosa venga progettata da un regime totalitario non è "ben progettata" perché è stata progettata da un regime totalitario.
 
 
 ### A designer owes the people who hire them not just their labor, but their counsel.
