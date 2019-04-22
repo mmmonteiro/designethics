@@ -47,3 +47,5 @@ Looking forward to your pull requests.
 * [Português](pt_PT.md)
 
 * [ру́сский язы́к](ru.md)
+
+* [Türkçe](tr_TR.md)
