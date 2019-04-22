@@ -69,7 +69,7 @@ A co empatie? Empatie je hezké slovo pro vyloučení. Pokud chcete vědět, jak
 
 ### Designer nevěří v krajní případy
 
-Když se rozhodnete, pro koho budete navrhovat, zároveň tím vyjadřujete pro koho navrhovat nebudete. Roky jsme nazvýali lidi, kteří nebyli nezbytní pro úspěchy našich produktů, krajními případy. Stavěli jsme je na okraj. A vyjadřovali jsme tím, že jsou na světě lidé, jejichž problémy nestojí za řešení.
+Když se rozhodnete, pro koho budete navrhovat, zároveň tím vyjadřujete pro koho navrhovat nebudete. Roky jsme nazývali lidi, kteří nebyli nezbytní pro úspěchy našich produktů, krajními případy. Stavěli jsme je na okraj. A vyjadřovali jsme tím, že jsou na světě lidé, jejichž problémy nestojí za řešení.
 
 Facebook říká, že má teď dvě miliardy uživatelů. Jedno procento z nich (to, co by většina produktů považovalo za krajní případ), je dvacet milionů lidí. To jsou ti lidé na okraji.
 
