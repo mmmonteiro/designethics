@@ -46,6 +46,6 @@ Looking forward to your pull requests.
 
 * [Português](pt_PT.md)
 
-* [ру́сский язы́к](ru.md)
+* [ру́сский язы́к](ru_RU.md)
 
 * [Türkçe](tr_TR.md)
