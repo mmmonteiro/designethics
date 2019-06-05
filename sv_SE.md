@@ -4,7 +4,7 @@
 * [En designer är först och främst en mänsklig varelse.](#en-designer-är-först-och-främst-en-mänsklig-varelse)
 * [En designer är ansvarig för det arbete hen tillför världen.](#en-designer-är-ansvarig-för-det-arbete-hen-tillför-världen)
 * [En designer värderar påverkan över form.](#en-designer-värderar-påverkan-över-form)
-* [En desingner är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt råd.](#en-designer-är-skyldig-sina-uppdragsgivare-inte-bara-sitt-arbete-utan-även-sitt-råd)
+* [En desingner är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt omdöme.](#en-designer-är-skyldig-sina-uppdragsgivare-inte-bara-sitt-arbete-utan-även-sitt-omdöme)
 * [En designer välkomnar kritik.](#en-designer-välkomnar-kritik)
 * [En designer strävar efter att känna sin målgrupp](#en-designer-strävar-efter-att-känna-sin-målgrupp)
 * [En designer tror inte på extremfall.](#en-designer-tror-inte-på-extremfall)
