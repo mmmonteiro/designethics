@@ -41,7 +41,7 @@ Vi behöver frukta konsekvenserna av vårt arbete mer än vi älskar finurlighet
 Designers existerar inte i ett vakuum. Samhället är det största systemet vi kan påverka och allt du gör är en del av detta system, både gott och ont. Till slut måste vi bedöma värdet av vårt arbete baserat på denna påverkan snarare än på estetiska överväganden. Ett objekt som är designat för att skada människor kan inte sägas vara väl designat, oavsett hur estetiskt tilltalande det än må vara, eftersom att designa objektet väl är att designa det för att skada andra. Ingenting som en totalitär regim designar är väl designat eftersom det är designat av en totalitär regim.
 
 
-### En designer är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt råd.
+### En designer är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt omdöme.
 
 När du anlitas för att designa någonting är du anlitad för din expertis. Ditt jobb är inte bara att utföra uppdraget utan att överväga effekterna av det utförda arbetet. Ditt jobb är att vidarebefordra konsekvenserna av det utförda arbetet till uppdragsgivaren eller arbetsgivaren. Om dessa effekter är negativa är det ditt jobb att vidarebefordra detta till din uppdragsgivare och - om det är möjligt - eliminera de negativa effekterna av ditt arbete. Om det är omöjligt att eliminera de negativa effekterna av ditt arbete, är det ditt jobb att stoppa det från att se dagen ljus. Med andra ord, du är inte bara anlitad för att gräva ett dike, utan att överväga de ekonomiska, sociologiska och ekologiska konsekvenserna av detta dike. Om diket inte uppfyller dina krav är det ditt jobb att förstöra spadarna.
 
