@@ -43,7 +43,7 @@ Designers existerar inte i ett vakuum. Samhället är det största systemet vi k
 
 ### En designer är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt omdöme.
 
-När du anlitas för att designa någonting är du anlitad för din expertis. Ditt jobb är inte bara att utföra uppdraget utan att överväga effekterna av det utförda arbetet. Ditt jobb är att vidarebefordra konsekvenserna av det utförda arbetet till uppdragsgivaren eller arbetsgivaren. Om dessa effekter är negativa är det ditt jobb att vidarebefordra detta till din uppdragsgivare och - om det är möjligt - eliminera de negativa effekterna av ditt arbete. Om det är omöjligt att eliminera de negativa effekterna av ditt arbete, är det ditt jobb att stoppa det från att se dagen ljus. Med andra ord, du är inte bara anlitad för att gräva ett dike, utan att överväga de ekonomiska, sociologiska och ekologiska konsekvenserna av detta dike. Om diket inte uppfyller dina krav är det ditt jobb att förstöra spadarna.
+När du anlitas för att designa någonting är du anlitad för din expertis. Ditt jobb är inte bara att utföra uppdraget utan att också överväga effekterna av det utförda arbetet. Ditt jobb är att vidarebefordra konsekvenserna av det utförda arbetet till uppdragsgivaren eller arbetsgivaren. Om dessa effekter är negativa är det ditt jobb att vidarebefordra detta till din uppdragsgivare och - om det är möjligt - eliminera de negativa effekterna av ditt arbete. Om det är omöjligt att eliminera de negativa effekterna av ditt arbete, är det ditt jobb att stoppa det från att se dagen ljus. Med andra ord, du är inte bara anlitad för att gräva ett dike, utan att även överväga de ekonomiska, sociologiska och ekologiska konsekvenserna av detta dike. Om diket inte uppfyller dina krav är det ditt jobb att förstöra spadarna.
 
 En designer använder sin expertis som en service till andra utan att vara en tjänare. Att säga nej är en designkompetens. Att fråga varför är en designkompetens. Att himla med ögonen är inte en designkompetens. Att fråga sig själv varför vi skapar någonting är en oändligt mycket bättre fråga att ställa än att fråga sig själv huruvida det är möjligt att skapa någonting. 
 
@@ -59,7 +59,7 @@ Kritik bör efterfrågas och välkomnas i alla steg i designprocessen. Du kan in
 
 ### En designer strävar efter att känna sin målgrupp.
 
-Design är en avsiktliga lösningar på avgränsade problem. För att veta om du på ett riktigt sätt löser dessa problem behöver du möta de människor som har problemen. Om du är en medlem i en grupp bör din grupp sträva efter att tänka på dessa människor. Ju mer en projektgrupp kan beakta den målgrupp som gruppen skapar lösningar för, desto bättre kan gruppen lösa målgruppens problem. Gruppen kan betrakta problemet från olika perspektiv, från olika utgångspunkter, från olika uppsättningar behov och erfarenheter. En grupp med ett enda perspektiv kommer inte att förstå de avgränsningar de behöver designa för lika bra som en grupp som har ett flertal perspektiv.
+Design är avsiktliga lösningar på avgränsade problem. För att veta om du på ett riktigt sätt löser dessa problem behöver du möta de människor som har problemen. Om du är en medlem i en grupp bör din grupp sträva efter att tänka på dessa människor. Ju mer en projektgrupp kan beakta den målgrupp som gruppen skapar lösningar för, desto bättre kan gruppen lösa målgruppens problem. Gruppen kan betrakta problemet från olika perspektiv, från olika utgångspunkter, från olika uppsättningar behov och erfarenheter. En grupp med ett enda perspektiv kommer inte att förstå de avgränsningar de behöver designa för lika bra som en grupp som har ett flertal perspektiv.
 
 Men empati då? Empati är en vacker omskrivning för uteslutande. Om du till exempel vill veta hur kvinnor använder något du designar, se till att det finns en kvinna i designgruppen.
 
@@ -79,7 +79,7 @@ Dessa är inte extremfall, de är mänskliga varelser och vi är skyldiga dem v�
 
 ### En designer är en del av en professionell gemenskap.
 
-Du är en del av en professionell gemenskap och hur du hanterar ditt jobb och dig själv professionellt påverkar alla i denna gemenskap. Precis som det stigande tidvattnet påverkar alla båtar så påverkas alla som simmar i bassängen av att du skiter i den. Om du är oärlig mot en uppdragsgivare eller arbetsgivare kommer den designer som kommer efter dig att få betala för det. Om du arbetar gratis kommer designern efter dig att förväntas göra detsamma. Om du inte står upp och vägrar göra dåligt arbete kommer designern efter dig att behöva jobba dubbelt så hårt för att kompensera för det.
+Du är en del av en professionell gemenskap och hur du hanterar ditt jobb och dig själv professionellt påverkar alla i denna gemenskap. Precis som det stigande tidvattnet påverkar alla båtar så påverkas alla som simmar i en bassäng av att du skiter i den. Om du är oärlig mot en uppdragsgivare eller arbetsgivare kommer den designer som kommer efter dig att få betala för det. Om du arbetar gratis kommer designern efter dig att förväntas göra detsamma. Om du inte står upp och vägrar göra dåligt arbete kommer designern efter dig att behöva jobba dubbelt så hårt för att kompensera för det.
 
 Även om en designer har en moralisk skyldighet att förtjäna sitt uppehälle efter sin bästa förmåga och möjlighet, så är det att göra oss andra en otjänst om det görs på andras bekostnad. Häng inte ut en kollega för att genomföra din egen agenda. Detta inkluderar publik omdesign av någon annans arbete, spekulativt arbete, obeställt arbete, och plagiat.
 
@@ -88,14 +88,14 @@ En designer försöker bygga en gemenskap, inte att splittra den.
 
 ### En designer välkomnar ett fält präglat av mångfald och konkurrenskraft.
 
-Genom hela sin karriär försöker en designer att lära. Det innebär att konfrontera det de inte vet. Det innebär att lyssna till andra människors erfarenheter. Det innebär att välkomna och uppmuntra människor som kommer från olika bakgrunder, olika kulturer. Det innebär att göra plats vid bordet för de människor som samhället historisk har förtryckt. Vi måste låta traditionellt marginaliserade röster höras i professionen. Mångfald leder till bättre resultat och lösningar. Mångfald leder till bättre design.
+Genom hela sin karriär försöker en designer att lära. Det innebär att konfrontera det hen inte vet. Det innebär att lyssna till andra människors erfarenheter. Det innebär att välkomna och uppmuntra människor med olika bakgrund, från olika kulturer. Det innebär att göra plats vid bordet för de människor som samhället historisk har förtryckt. Vi måste låta traditionellt marginaliserade röster höras i professionen. Mångfald leder till bättre resultat och lösningar. Mångfald leder till bättre design.
 
-En designer håller koll på sitt ego, vet när det är dags att hålla tyst och lyssna, är medveten om sina egna fördomar, välkomnar kritik av dem och slåss för att göra plats för de som tidigare inte fått höras.
+En designer håller koll på sitt ego, vet när det är dags att hålla tyst och lyssna, är medveten om sina egna fördomar, välkomnar ifrågasättande av dem och slåss för att göra plats för de som tidigare inte fått höras.
 
 
 ### En designer tar sig tid för självreflektion.
 
-Ingen designer vaknar en dag och bestämmer sig för att kasta ut sin etik genom fönstret. Det sker långsamt, på ett sluttande plan. Det är en rad små beslut som till och med verkar bra just då, och därför - innan du vet ordet av - designar du en dag filter-gränssnitt för Walmarts vapen-onlineshop.
+Ingen designer vaknar en dag och bestämmer sig för att kasta ut sin etik genom fönstret. Det sker långsamt, på ett sluttande plan. Det är en rad små beslut som till och med verkar rimliga just då, och därför - innan du vet ordet av - designar du en dag filter-gränssnitt för Walmarts vapen-onlineshop.
 
 Ta dig tid för självreflektion nån gång per kvartal. Utvärdera de beslut du gjort den senaste tiden. Är du sann mot dig själv? Eller förflyttar du dina etiska gränser några decimetrar åt gången, i takt med löneförhöjningar eller aktieoptioner?
 
