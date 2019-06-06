@@ -48,4 +48,6 @@ Looking forward to your pull requests.
 
 * [ру́сский язы́к](ru_RU.md)
 
+* [Svenska](sv_SE.md)
+
 * [Türkçe](tr_TR.md)
