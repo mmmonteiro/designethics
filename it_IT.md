@@ -36,20 +36,21 @@ Dobbiamo temere le conseguenze del nostro lavoro più di quanto amiamo l'astuzia
 Il design non esiste nel vuoto. La società è il sistema più grande sul quale possiamo avere un effetto e tutto ciò che fai è parte di quel sistema, sia il bello che il brutto. Alla fine dobbiamo giudicare il valore del nostro lavoro basandoci su quell'effetto, piuttosto che su qualunque considerazione di natura estetica. Un oggetto che è stato progettato per provocare del danno alle persone non può essere considerato "ben progettato", non importa quanto esteticamente accattivante esso possa apparire, perché per progettarlo adeguatamente lo si progetta per provocare del danno agli altri. Qualunque cosa venga progettata da un regime totalitario non è "ben progettata" perché è stata progettata da un regime totalitario.
 
 
-### A designer owes the people who hire them not just their labor, but their counsel.
+### Il designer deve non solo il proprio lavoro, ma anche il proprio consiglio, alle persone che lo impiegano.
 
-When you are hired to design something, you are hired for your expertise. Your job is not just to produce that work but to evaluate the impact of that work. Your job is to relay the impact of that work to your client or employer. And should that impact be negative, it is your job to relay that to your client along with a way, if possible, to eliminate the negative impact of the work. If it’s impossible to eliminate the negative impact of the work, it’s your job to stop it from seeing the light of day. In other words, you’re not hired to just dig a ditch, but to evaluate the economic, sociological, and ecological impact of that ditch. If the ditch fails those tests, it’s your job to destroy the shovels.
+Quando vieni assunto per progettare qualcosa, vieni assunto per la tua competenza. Il tuo lavoro non è unicamente quello di portare a termine il progetto, ma di valutarne anche l'impatto. Il tuo lavoro comprende anche comunicare l'entità di tale impatto al tuo cliente o datore di lavoro. E fosse, tale impatto, negativo è parte del tuo lavoro comunicarlo al tuo cliente in modo, se possibile, di eliminarlo.
+In caso fosse impossibile eliminare questo impatto negativo, è il tuo lavoro prevenire che il progetto stesso veda la luce del giorno. In altre parole, non vieni unicamente impiegato per scavare una buca, ma per valutarne l'impatto economico, sociologico ed ecologico. Se la buca non passa questi test, il tuo lavoro è di distruggere le vanghe.
 
-A designer uses their expertise in the service of others without being a servant. Saying no is a design skill. Asking why is a design skill. Rolling your eyes is not. Asking ourselves why we are making something is an infinitely better question than asking ourselves whether we can make it.
+Il designer usa la propria competenza al servizio di terzi, senza essere uno schiavo. Saper dire di no è un'abilità del designer. Chiedere perché è un'abilità del designer. Alzare gli occhi al cielo non lo è. Chiedersi perchè stiamo producendo qualcosa è una domanda infinitamente migliore che chiedersi se siamo in grado di produrla.
 
 
-### A designer welcomes criticism.
+### Un designer accetta le critiche
 
-No code of ethics should protect your work from criticism, be it from clients, the public, or other designers. Instead, you should encourage criticism in order to create better work in the future. If your work is so fragile that it can’t withstand criticism it shouldn’t exist. The time to kick the tires on your work comes before those tires hit the road. And be open to that criticism coming from anywhere.
+Nessun codice etico dovrebbe proteggerti dalle critiche, siano queste da parte dei clienti, dal pubblico, da altri designer. Dovresti, invece, incoraggiare le critiche in modo da produrre miglior lavoro nel futuro. Se il tuo lavoro è così fragile da non essere in grado da sostenere alcuna critica, non dovrebbe esistere. Bisogna controllare bene le gomme sulle ruote del tuo lavoro ben prima che venga rilasciato per le strade. E sii aperto a critiche da ogni dove.
 
-The role of criticism, when given appropriately, is to evaluate and improve work. Criticism is a gift. It makes good work better. It keeps bad work from seeing the light of day.
+Il ruolo del giudizio critico, quando appropriato e ben formulato, è di valutare e migliorare il lavoro. La critica è un dono. Rende il buon lavoro migliore. Ed evita che quello cattivo veda la luce del giorno.
 
-Criticism should be asked for and welcomed at every step of the design process. You can’t fix a cake once it’s been baked. But you can increase the chances your project is successful by getting feedback early and often. It’s your responsibility to ask for criticism.
+Il giudizio critico andrebbe chiesto, ed accettato, durante ogni fase del processo di progettazione. Non puoi rimediare una torta venuta male una volta cotta. Ma puoi aumentare le possibilità che un progetto abbia successo ottenendo riscontro dal principio, e spesso. É tua responsabilità richiere un giudizio critico per il tuo lavoro.
 
 
 ### A designer strives to know their audience.
