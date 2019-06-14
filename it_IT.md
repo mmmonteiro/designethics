@@ -53,12 +53,6 @@ Il ruolo del giudizio critico, quando appropriato e ben formulato, è di valutar
 Il giudizio critico andrebbe chiesto, ed accettato, durante ogni fase del processo di progettazione. Non puoi rimediare una torta venuta male una volta cotta. Ma puoi aumentare le possibilità che un progetto abbia successo ottenendo riscontro dal principio, e spesso. É tua responsabilità richiere un giudizio critico per il tuo lavoro.
 
 
-### A designer strives to know their audience.
-
-Design is the intentional solution to a problem within a set of constraints. To know whether you are properly solving those problems you need to meet the people who are having them. And if you are part of a team, your team should strive to reflect those people. The more a team can reflect the audience it is solving for, the more thoroughly it can solve those problems. That team can come at a problem from different points-of-view, from different backgrounds, from different sets of needs and experiences. A team with a single point of view will never understand the constraints they need to design for as well as a team with multiple points of view.
-
-What about empathy? Empathy is a pretty word for exclusion. If you want to know how women would use something you’re designing get a woman on the team that’s designing it.
-
 ### Un designer si impegna a conoscere il proprio pubblico
 
 Il Design è una soluzione intenzionale ad un problema ottenuta operando all'interno di un numero di vincoli. Per capire se stai risolvendo con successo questi problemi è necessario conoscere le persone che stanno incontrando questi problemi. E, se sei parte di un gruppo di lavoro, il tuo gruppo si deve impegnare nel rispecchiare queste persone. Quanto più un gruppo di lavoro riesce a rispecchiare il pubblico per cui sta risolvendo unb problema, tanto più riuscirà a risolverlo completamente. Il gruppo di lavoro sarà in grado di affrontare il problema da diversi punti di vista, da ambienti diversi, da diversi insiemi di necessità ed esperienze. Un gruppo con un singolo punto di vista non sarà mai in grado di capire a fondo i vincoli del progetto così come un gruppo in grado di osservare lo stesso da più punti di vista.
