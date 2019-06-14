@@ -59,6 +59,12 @@ Design is the intentional solution to a problem within a set of constraints. To 
 
 What about empathy? Empathy is a pretty word for exclusion. If you want to know how women would use something you’re designing get a woman on the team that’s designing it.
 
+### Un designer si impegna a conoscere il proprio pubblico
+
+Il Design è una soluzione intenzionale ad un problema ottenuta operando all'interno di un numero di vincoli. Per capire se stai risolvendo con successo questi problemi è necessario conoscere le persone che stanno incontrando questi problemi. E, se sei parte di un gruppo di lavoro, il tuo gruppo si deve impegnare nel rispecchiare queste persone. Quanto più un gruppo di lavoro riesce a rispecchiare il pubblico per cui sta risolvendo unb problema, tanto più riuscirà a risolverlo completamente. Il gruppo di lavoro sarà in grado di affrontare il problema da diversi punti di vista, da ambienti diversi, da diversi insiemi di necessità ed esperienze. Un gruppo con un singolo punto di vista non sarà mai in grado di capire a fondo i vincoli del progetto così come un gruppo in grado di osservare lo stesso da più punti di vista.
+
+E l'empatia? Empatia è una bella parola da usare al posto di "esclusione". Se vuoi capire come una donna userebbe qualcosa che stai progettando, aggiungi una donna al gruppo di lavoro che sta lavorando al progetto.
+
 
 ### A designer does not believe in edge cases.
 
