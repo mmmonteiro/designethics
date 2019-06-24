@@ -36,27 +36,28 @@ Dobbiamo temere le conseguenze del nostro lavoro più di quanto amiamo l'astuzia
 Il design non esiste nel vuoto. La società è il sistema più grande sul quale possiamo avere un effetto e tutto ciò che fai è parte di quel sistema, sia il bello che il brutto. Alla fine dobbiamo giudicare il valore del nostro lavoro basandoci su quell'effetto, piuttosto che su qualunque considerazione di natura estetica. Un oggetto che è stato progettato per provocare del danno alle persone non può essere considerato "ben progettato", non importa quanto esteticamente accattivante esso possa apparire, perché per progettarlo adeguatamente lo si progetta per provocare del danno agli altri. Qualunque cosa venga progettata da un regime totalitario non è "ben progettata" perché è stata progettata da un regime totalitario.
 
 
-### A designer owes the people who hire them not just their labor, but their counsel.
+### Il designer deve non solo il proprio lavoro, ma anche il proprio consiglio, alle persone che lo impiegano.
 
-When you are hired to design something, you are hired for your expertise. Your job is not just to produce that work but to evaluate the impact of that work. Your job is to relay the impact of that work to your client or employer. And should that impact be negative, it is your job to relay that to your client along with a way, if possible, to eliminate the negative impact of the work. If it’s impossible to eliminate the negative impact of the work, it’s your job to stop it from seeing the light of day. In other words, you’re not hired to just dig a ditch, but to evaluate the economic, sociological, and ecological impact of that ditch. If the ditch fails those tests, it’s your job to destroy the shovels.
+Quando vieni assunto per progettare qualcosa, vieni assunto per la tua competenza. Il tuo lavoro non è unicamente quello di portare a termine il progetto, ma di valutarne anche l'impatto. Il tuo lavoro comprende anche comunicare l'entità di tale impatto al tuo cliente o datore di lavoro. E fosse, tale impatto, negativo è parte del tuo lavoro comunicarlo al tuo cliente in modo, se possibile, di eliminarlo.
+In caso fosse impossibile eliminare questo impatto negativo, è il tuo lavoro prevenire che il progetto stesso veda la luce del giorno. In altre parole, non vieni unicamente impiegato per scavare una buca, ma per valutarne l'impatto economico, sociologico ed ecologico. Se la buca non passa questi test, il tuo lavoro è di distruggere le vanghe.
 
-A designer uses their expertise in the service of others without being a servant. Saying no is a design skill. Asking why is a design skill. Rolling your eyes is not. Asking ourselves why we are making something is an infinitely better question than asking ourselves whether we can make it.
-
-
-### A designer welcomes criticism.
-
-No code of ethics should protect your work from criticism, be it from clients, the public, or other designers. Instead, you should encourage criticism in order to create better work in the future. If your work is so fragile that it can’t withstand criticism it shouldn’t exist. The time to kick the tires on your work comes before those tires hit the road. And be open to that criticism coming from anywhere.
-
-The role of criticism, when given appropriately, is to evaluate and improve work. Criticism is a gift. It makes good work better. It keeps bad work from seeing the light of day.
-
-Criticism should be asked for and welcomed at every step of the design process. You can’t fix a cake once it’s been baked. But you can increase the chances your project is successful by getting feedback early and often. It’s your responsibility to ask for criticism.
+Il designer usa la propria competenza al servizio di terzi, senza essere uno schiavo. Saper dire di no è un'abilità del designer. Chiedere perché è un'abilità del designer. Alzare gli occhi al cielo non lo è. Chiedersi perchè stiamo producendo qualcosa è una domanda infinitamente migliore che chiedersi se siamo in grado di produrla.
 
 
-### A designer strives to know their audience.
+### Un designer accetta le critiche
 
-Design is the intentional solution to a problem within a set of constraints. To know whether you are properly solving those problems you need to meet the people who are having them. And if you are part of a team, your team should strive to reflect those people. The more a team can reflect the audience it is solving for, the more thoroughly it can solve those problems. That team can come at a problem from different points-of-view, from different backgrounds, from different sets of needs and experiences. A team with a single point of view will never understand the constraints they need to design for as well as a team with multiple points of view.
+Nessun codice etico dovrebbe proteggerti dalle critiche, siano queste da parte dei clienti, dal pubblico, da altri designer. Dovresti, invece, incoraggiare le critiche in modo da produrre miglior lavoro nel futuro. Se il tuo lavoro è così fragile da non essere in grado da sostenere alcuna critica, non dovrebbe esistere. Bisogna controllare bene le gomme sulle ruote del tuo lavoro ben prima che venga rilasciato per le strade. E sii aperto a critiche da ogni dove.
 
-What about empathy? Empathy is a pretty word for exclusion. If you want to know how women would use something you’re designing get a woman on the team that’s designing it.
+Il ruolo del giudizio critico, quando appropriato e ben formulato, è di valutare e migliorare il lavoro. La critica è un dono. Rende il buon lavoro migliore. Ed evita che quello cattivo veda la luce del giorno.
+
+Il giudizio critico andrebbe chiesto, ed accettato, durante ogni fase del processo di progettazione. Non puoi rimediare una torta venuta male una volta cotta. Ma puoi aumentare le possibilità che un progetto abbia successo ottenendo riscontro dal principio, e spesso. É tua responsabilità richiere un giudizio critico per il tuo lavoro.
+
+
+### Un designer si impegna a conoscere il proprio pubblico
+
+Il Design è una soluzione intenzionale ad un problema ottenuta operando all'interno di un numero di vincoli. Per capire se stai risolvendo con successo questi problemi è necessario conoscere le persone che stanno incontrando questi problemi. E, se sei parte di un gruppo di lavoro, il tuo gruppo si deve impegnare nel rispecchiare queste persone. Quanto più un gruppo di lavoro riesce a rispecchiare il pubblico per cui sta risolvendo unb problema, tanto più riuscirà a risolverlo completamente. Il gruppo di lavoro sarà in grado di affrontare il problema da diversi punti di vista, da ambienti diversi, da diversi insiemi di necessità ed esperienze. Un gruppo con un singolo punto di vista non sarà mai in grado di capire a fondo i vincoli del progetto così come un gruppo in grado di osservare lo stesso da più punti di vista.
+
+E l'empatia? Empatia è una bella parola da usare al posto di "esclusione". Se vuoi capire come una donna userebbe qualcosa che stai progettando, aggiungi una donna al gruppo di lavoro che sta lavorando al progetto.
 
 
 ### A designer does not believe in edge cases.
