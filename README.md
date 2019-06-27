@@ -42,7 +42,9 @@ Looking forward to your pull requests.
 
 * [Nederlands](nl.md)
 
-* [Norsk (Bokmål)](nb_NO.md)
+* [Norsk Bokmål](nb_NO.md)
+
+* [Norsk Nynorsk](nn_NO.md)
 
 * [Português](pt_PT.md)
 
