@@ -8,7 +8,7 @@
 * [En designer ønsker kritikk](#en-designer-%C3%B8nsker-kritikk)
 * [En designer søker å kjenne de man designer for](#en-designer-s%C3%B8ker-%C3%A5-kjenne-de-man-designer-for)
 * [En designer tror ikke på unntakstilfeller](#en-designer-tror-ikke-p%C3%A5-unntakstilfeller)
-* [En designer tar del i et profesjonelt felleskap](#en-designer-tar-del-i-et-profesjonelt-felleskap)
+* [En designer tar del i et profesjonelt fellesskap](#en-designer-tar-del-i-et-profesjonelt-fellesskap)
 * [En designer ønsker et mangfoldig og kompetitiv felt](#en-designer-%C3%B8nsker-et-mangfoldig-og-kompetitiv-felt)
 * [En designer tar seg tid til selv-refleksjon](#en-designer-tar-seg-tid-til-selv-refleksjon)
 
@@ -49,9 +49,9 @@ Kritikk bør etterspørres og ønskes velkommen på hvert eneste steg av designp
 
 ### En designer søker å kjenne de man designer for
 
-Design er den internasjonale løsningen til et problem innenfor gitte rammer. For å vite om du løser disse problemene på en tilfredsstillende måte er du nødt til å møte personene som har dem. Og dersom du er en del av et arbeidsfelleskap, så bør det tilstrebe å gjenspeile disse menneskene. Jo mer et sånt felleskap kan gjenspeile de som det lager noe for, jo mer grundig kan de løse disse problemene. De kan komme til problemet fra et annet perspektiv, med forskjellige bakgrunner, med forskjellige behov og erfaringer. Noen med kun ett perspektiv vil aldri forstå rammene de må designe for så bra som noen med flere perspektiver.
+Design er den bevisste løsningen til et problem innenfor gitte rammer. For å vite om du løser disse problemene på en tilfredsstillende måte er du nødt til å møte personene som har dem. Og dersom du er en del av et arbeidsfellesskap, så bør det tilstrebe å gjenspeile disse menneskene. Jo mer et sånt fellesskap kan gjenspeile de som det lager noe for, jo mer grundig kan de løse disse problemene. De kan komme til problemet fra et annet perspektiv, med forskjellige bakgrunner, med forskjellige behov og erfaringer. Noen med kun ett perspektiv vil aldri forstå rammene de må designe for så bra som noen med flere perspektiver.
 
-Hva med empati? Empati er et fint ord for ekskludering. Dersom du ønsker å vite hvordan kvinner vil bruke noe du lager, få en kvinne til å ta del i det felleskapet som lager det.
+Hva med empati? Empati er et fint ord for ekskludering. Dersom du ønsker å vite hvordan kvinner vil bruke noe du lager, få en kvinne til å ta del i det fellesskapet som lager det.
 
 ### En designer tror ikke på unntakstilfeller
 
@@ -61,17 +61,17 @@ Facebook hevder nå å ha to milliarder brukere. 1 prosent av to milliarder bruk
 
 “When you call something an edge case, you’re really just defining the limits of what you care about.” — Eric Meyer
 
-Dette er transpersoner, som blir faller utenfor i prosjekter som krever «ekte navn». Dette er enslige mødre som faller utenfor når «begge foreldre må signere». Dette er eldre innvandrere som møter opp til valg, men finner ikke valgsedler i deres eget språk.
+Dette er transpersoner, som faller utenfor i prosjekter som krever «ekte navn». Dette er enslige mødre som faller utenfor når «begge foreldre må signere». Dette er eldre innvandrere som møter opp til valg, men finner ikke valgsedler i deres eget språk.
 
 De er ikke unntaktstilfeller. De er mennesker, og vi skylder dem vårt beste arbeid.
 
-### En designer tar del i et profesjonelt felleskap
+### En designer tar del i et profesjonelt fellesskap
 
-Du er en del av et profesjonelt felleskap og hvordan du opptrer og gjør din jobb påvirker alle i dette felleskapet. Akkurat som at stigende tidevann påvirker alle båtene, så vil det å drite i bassenget påvirke alle som svømmer der. Dersom du er uærlig med en kunde eller arbeidsgiver, vil designeren etter deg betale for det. Om du jobber gratis, vil designeren etter deg forventes å gjøre det samme. Dersom du ikke avstår fra å gjøre dårlig arbeid, vil designeren etter deg jobbe dobbelt så hardt for å gjøre opp for det.
+Du er en del av et profesjonelt fellesskap og hvordan du opptrer og gjør din jobb påvirker alle i dette fellesskapet. Akkurat som at stigende tidevann påvirker alle båtene, så vil det å drite i bassenget påvirke alle som svømmer der. Dersom du er uærlig med en kunde eller arbeidsgiver, vil designeren etter deg betale for det. Om du jobber gratis, vil designeren etter deg forventes å gjøre det samme. Dersom du ikke avstår fra å gjøre dårlig arbeid, vil designeren etter deg jobbe dobbelt så hardt for å gjøre opp for det.
 
 Mens en designer har en etisk forpliktelse til å tjene til livets opphold så godt de kan, vil det å gjøre det på andre designeres bekostning påvirke oss alle negativt. Aldri hold en annen designer foran deg for å din agenda igjennom. Dette innebærer offentlige redesign av andres arbeid, spesifikasjonsarbeid, uoppfordret arbeid, og plagiat.
 
-En designer ønsker å bygge felleskapet, ikke splitte det.
+En designer ønsker å bygge fellesskapet, ikke splitte det.
 
 ### En designer ønsker et mangfoldig og kompetitiv felt
 
@@ -85,6 +85,6 @@ Ingen designere våkner opp en dag og bestemmer seg for å hive etikken ut av vi
 
 Ta tiden til selvrefleksjon ved jevne mellomrom. Evaluer beslutningene du har tatt nylig. Er du sann mot den du er? Eller driver du sakte med å flytte dine etiske grenser sammen med lønnsforhøyelser og opsjoner?
 
-Styrer du i feil retning? Fiks det. Er arbeidsplassen din en uetisk avgrunn. Finn deg en ny arbeidsplass.
+Styrer du i feil retning? Fiks det. Er arbeidsplassen din en uetisk avgrunn? Finn deg en ny arbeidsplass.
 
-Din jobb er et valg. Vennligst ta det rett.
+Din jobb er et valg. Ta det rette valget.
