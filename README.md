@@ -38,6 +38,8 @@ Looking forward to your pull requests.
 
 * [Français](fr_FR.md)
 
+* [Suomi](fi.md)
+
 * [Italiano](it_IT.md)
 
 * [Nederlands](nl.md)
