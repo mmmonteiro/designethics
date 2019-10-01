@@ -1,15 +1,15 @@
 # Ethische Grundsätze für Gestalterinnen und Gestalter
 
 ## Gliederung
-- Gestalter_innen sind allem voran menschliche Wesen.
+- Gestalter_innen sind in erster Linie Menschen.
 - Gestalter_innen sind verantwortlich für die Arbeit, die sie in die Welt bringen.
 - Gestalter_innen schätzen Auswirkungen höher als Form.
-- Gestalter_innen schulden denjenigen, die sie anstellen nicht nur ihre Arbeit, sondern auch ihren Rat.
+- Gestalter_innen schulden denjenigen, die sie engagieren nicht nur ihre Arbeit, sondern auch ihren Rat.
 - Gestalter_innen heißen Kritik willkommen.
 - Gestalter_innen streben danach, ihr Publikum zu kennen.
 - Gestalter_innen glauben nicht an Grenzfälle.
 - Gestalter_innen sind Teil einer professionellen Gemeinschaft.
-- Gestalter_innen schätzen diverse und kompetitive Umfelder.
+- Gestalter_innen schätzen vielfältige und herausfordernde Umfelder.
 - Gestalter_innen nehmen sich Zeit für Selbstbesinnung.
 
 ## Inhalt
