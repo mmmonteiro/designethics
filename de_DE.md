@@ -90,3 +90,25 @@ Schade niemals anderen Gestalter_innen um einen Vorteil daraus zu ziehen.
 Das beinhaltet öffentliche Redesigns von der Arbeit anderer, spekulative, oder unbeauftragte Arbeit sowie Plagiarismus.
 
 Gestalter_innen streben danach eine Gemeinschaft aufzubauen, nicht sie zu spalten.
+
+### Gestalter_innen schätzen vielfältige und herausfordernde Umfelder.
+
+Gestalter_innen hören nie auf zu lernen. Das bedeutet sie konfrontieren sich mit dem was sie nicht wissen. Das bedeutet sie hören sich die Erfahrungen anderer an. Das bedeutet sie ermutigen und heißen Menschen von verschiedenen Ursprüngen willkommen. 
+Das bedeutet sie räumen Menschen einen Platz ein, die von der Gesellschaft unterdrüvkt worden sind. 
+Wir müssen Leuten, die immer und immer wieder ausgeklammert werden, helfen sich in unserer professionellen Gemeinschaft Gehör zu verschaffen.
+Vielfältigkeit führt zu besseren Ergebnissen und Lösungen. 
+Vielfältig macht besseres Design.
+
+Gestalter_innen haben ihr Ego im Griff, wissen wann sie besser still sind und zuhören, kennen ihre Voreingenommenheiten und sind froh wenn diese getestet werden und kämpfen dafür einen Platz für diejenigen zu schaffen, die bislang nicht gehört wurden.
+
+### Gestalter_innen nehmen sich Zeit für Selbstbesinnung.
+
+Niemand wacht morgens auf und entscheidet sich jegliche Moral aus dem Fenster zu werfen.
+Es passiert langsam, eine zweifelhafte Entscheidung nach der anderen.
+Es ist eine Reihe von kleinen Entscheidungen, die damals vielleicht sogar in Ordnung zu sein schienen und bevor Du dich versiehst, gestaltest Du ein Interface zum Filtern für den online Waffenshop von Walmart. 
+
+Nimm Dir alle paar Monate Zeit für Reflektion. Bewerte die Entscheidungen, die Du kürzlich gefällt hast. Bist Du noch Du selbst? Oder verschiebst Du deinen moralischen Standpunkt mit jeder Gehaltserhöhung oder Aktien-Option?
+
+Hast Du deinen Kurs verlassen? Dann korrigere es. Ist dein Arbeitsplatz ein unmoralisches Höllenloch? Such dir einen neuen.
+
+Dein Job ist eine Entscheidung. Bitte mach es richtig.
