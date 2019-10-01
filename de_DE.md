@@ -13,7 +13,7 @@
 - Gestalter_innen nehmen sich Zeit für Selbstbesinnung.
 
 ## Inhalt
-### Gestalter_innen sind allem voran menschliche Wesen.
+### Gestalter_innen sind in erster Linie Menschen.
 Noch bevor du ein_e Gestalter_in bist, bist du vor allem ein Mensch. Wie jeder andere Mensch auf unserem Planeten, bist auch du Teil eines sozialen Vertrages. Wir alle teilen uns diesen Planeten. Indem du dich dazu entschieden hast, ein_e Gestalter_in zu sein, hast du dich auch dazu entschieden, das Leben derer zu beeinflussen, die mit deiner Arbeit in Berührung kommen. Mit deinen Taten kannst du diesen Menschen entweder helfen, oder ihnen schaden. Die Auswirkungen dessen, was du in die Gesellschaft einbringst, sollten bei deiner Arbeit stets eine grundlegende Fragestellung sein.
 
 Jeder Mensch auf diesem Planeten ist dazu verpflichtet, sein bestes dafür zu tun, ihn im Rahmen seiner Möglichkeiten zum Besseren zu wandeln. Gestalter_innen können sich hiervon nicht ausnehmen.
