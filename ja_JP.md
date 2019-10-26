@@ -5,7 +5,7 @@
 - [デザイナーは、形よりも影響に価値を置く。](#a-designer-values-impact-over-form)
 - [デザイナーは、ただの労働者としてではなく相談役としての仕事がある。](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
 - [デザイナーは、批評を歓迎する。](#a-designer-welcomes-criticism)
-- [デザイナーは、自分たちの顧客を知るために努力する。](#a-designer-strives-to-know-their-audience)
+- [デザイナーは、自分たちの対象を知るために努力する。](#a-designer-strives-to-know-their-audience)
 - [デザイナーは、エッジケースを信じない。](#a-designer-does-not-believe-in-edge-cases)
 - [デザイナーは、プロのコミュニティの一部である。](#a-designer-is-part-of-a-professional-community)
 - [デザイナーは、多様で競争的な場を歓迎する。](#a-designer-welcomes-a-diverse-and-competitive-field)
