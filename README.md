@@ -40,6 +40,8 @@ Looking forward to your pull requests.
 
 * [Italiano](it_IT.md)
 
+* [Japanese](ja_JP.md)
+
 * [Nederlands](nl.md)
 
 * [Norsk Bokmål](nb_NO.md)
