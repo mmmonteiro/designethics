@@ -48,7 +48,9 @@ Looking forward to your pull requests.
 
 * [Norsk Nynorsk](nn_NO.md)
 
-* [Português](pt_PT.md)
+* [Português de Portugal](pt_PT.md)
+  
+* [Português do Brasil](pt_BR.md)
 
 * [ру́сский язы́к](ru_RU.md)
 
