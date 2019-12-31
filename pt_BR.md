@@ -1,6 +1,6 @@
-# O Código de Ética de Designers
+# O Código de Ética para Designers
 
-- [O Código de Ética de Designers](#o-c%c3%b3digo-de-%c3%89tica-de-designers)
+- [O Código de Ética para Designers](#o-c%c3%b3digo-de-%c3%89tica-para-designers)
     - [Designers são antes de tudo e principalmente seres humanos.](#designers-s%c3%a3o-antes-de-tudo-e-principalmente-seres-humanos)
     - [Designers são responsáveis pelo trabalho que colocam no mundo.](#designers-s%c3%a3o-respons%c3%a1veis-pelo-trabalho-que-colocam-no-mundo)
     - [Designers valorizam impacto sobre a forma.](#designers-valorizam-impacto-sobre-a-forma)
