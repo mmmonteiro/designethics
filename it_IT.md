@@ -11,9 +11,7 @@
 * [Il designer accoglie la diversità e la competitività nel suo campo.](#a-designer-welcomes-a-diverse-and-competitive-field)
 * [Il designer dedica tempo all'autoriflessione.](#a-designer-takes-time-for-self-reflection)
 
-
-***
-
+---
 
 ### Il designer è prima di tutto un essere umano.
 
@@ -35,14 +33,12 @@ Dobbiamo temere le conseguenze del nostro lavoro più di quanto amiamo l'astuzia
 
 Il design non esiste nel vuoto. La società è il sistema più grande sul quale possiamo avere un effetto e tutto ciò che fai è parte di quel sistema, sia il bello che il brutto. Alla fine dobbiamo giudicare il valore del nostro lavoro basandoci su quell'effetto, piuttosto che su qualunque considerazione di natura estetica. Un oggetto che è stato progettato per provocare del danno alle persone non può essere considerato "ben progettato", non importa quanto esteticamente accattivante esso possa apparire, perché per progettarlo adeguatamente lo si progetta per provocare del danno agli altri. Qualunque cosa venga progettata da un regime totalitario non è "ben progettata" perché è stata progettata da un regime totalitario.
 
-
 ### Il designer deve non solo il proprio lavoro, ma anche il proprio consiglio, alle persone che lo impiegano.
 
 Quando vieni assunto per progettare qualcosa, vieni assunto per la tua competenza. Il tuo lavoro non è unicamente quello di portare a termine il progetto, ma di valutarne anche l'impatto. Il tuo lavoro comprende anche comunicare l'entità di tale impatto al tuo cliente o datore di lavoro. E fosse, tale impatto, negativo è parte del tuo lavoro comunicarlo al tuo cliente in modo, se possibile, di eliminarlo.
 In caso fosse impossibile eliminare questo impatto negativo, è il tuo lavoro prevenire che il progetto stesso veda la luce del giorno. In altre parole, non vieni unicamente impiegato per scavare una buca, ma per valutarne l'impatto economico, sociologico ed ecologico. Se la buca non passa questi test, il tuo lavoro è di distruggere le vanghe.
 
 Il designer usa la propria competenza al servizio di terzi, senza essere uno schiavo. Saper dire di no è un'abilità del designer. Chiedere perché è un'abilità del designer. Alzare gli occhi al cielo non lo è. Chiedersi perchè stiamo producendo qualcosa è una domanda infinitamente migliore che chiedersi se siamo in grado di produrla.
-
 
 ### Un designer accetta le critiche
 
@@ -52,13 +48,11 @@ Il ruolo del giudizio critico, quando appropriato e ben formulato, è di valutar
 
 Il giudizio critico andrebbe chiesto, ed accettato, durante ogni fase del processo di progettazione. Non puoi rimediare una torta venuta male una volta cotta. Ma puoi aumentare le possibilità che un progetto abbia successo ottenendo riscontro dal principio, e spesso. É tua responsabilità richiere un giudizio critico per il tuo lavoro.
 
-
 ### Un designer si impegna a conoscere il proprio pubblico
 
 Il Design è una soluzione intenzionale ad un problema ottenuta operando all'interno di un numero di vincoli. Per capire se stai risolvendo con successo questi problemi è necessario conoscere le persone che stanno incontrando questi problemi. E, se sei parte di un gruppo di lavoro, il tuo gruppo si deve impegnare nel rispecchiare queste persone. Quanto più un gruppo di lavoro riesce a rispecchiare il pubblico per cui sta risolvendo unb problema, tanto più riuscirà a risolverlo completamente. Il gruppo di lavoro sarà in grado di affrontare il problema da diversi punti di vista, da ambienti diversi, da diversi insiemi di necessità ed esperienze. Un gruppo con un singolo punto di vista non sarà mai in grado di capire a fondo i vincoli del progetto così come un gruppo in grado di osservare lo stesso da più punti di vista.
 
 E l'empatia? Empatia è una bella parola da usare al posto di "esclusione". Se vuoi capire come una donna userebbe qualcosa che stai progettando, aggiungi una donna al gruppo di lavoro che sta lavorando al progetto.
-
 
 ### A designer does not believe in edge cases.
 
@@ -71,7 +65,6 @@ These are the trans people who get caught on the edges of “real names” proje
 
 They are not edge cases. They are human beings, and we owe them our best work.
 
-
 ### A designer is part of a professional community.
 
 You are part of a professional community and the way you do your job and handle yourself professionally affects everyone in that community. Just as a rising tide affects all boats, taking a shit in the pool affects all swimmers. If you are dishonest with a client or employer, the designer behind you will pay the price. If you work for free, the designer behind you will be expected to do the same. If you do not hold your ground on doing bad work, the designer behind you will have to work twice as hard to make up for it.
@@ -80,13 +73,11 @@ While a designer has an ethical obligation to earn a living to the best of their
 
 A designer seeks to build the community, not divide it.
 
-
 ### A designer welcomes a diverse and competitive field.
 
 Throughout their entire career, a designer seeks to learn. That means confronting what they do not know. That means listening to other people’s experiences. That means welcoming and encouraging people who come from diverse backgrounds, diverse cultures. That means making space at the table for people who society has historically kept down. We must make space for traditionally marginalized voices to be heard in the profession. Diversity leads to better outcomes and solutions. Diversity leads to better design.
 
 A designer keeps their ego in check, knows when to shut up and listen, is aware of their own biases and welcomes having them checked, and fights to make room for those who have been silenced.
-
 
 ### A designer takes time for self-reflection.
 
