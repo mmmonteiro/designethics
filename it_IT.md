@@ -2,8 +2,8 @@
 
 * [Il designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)
 * [Il designer è responsabile del lavoro che immette nel mondo.](#il-designer-è-responsabile-del-lavoro-che-immette-nel-mondo)
-* [Il designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
 * [Il designer tiene più all'impatto che alla forma.](#il-designer-preferisce-leffetto-allo-stile)
+* [Il designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
 * [Il designer accoglie le critiche.](#a-designer-welcomes-criticism)
 * [Il designer ambisce a conoscere il proprio pubblico.](#a-designer-strives-to-know-their-audience)
 * [Il designer non crede nei casi limite.](#a-designer-does-not-believe-in-edge-cases)
