@@ -24,6 +24,8 @@ Looking forward to your pull requests.
 
 * [العَرَبِيَّة](ar.md)
 
+* [فارسی](fa.md)
+
 * [Bahasa Indonesia](id_ID.md)
 
 * [Čeština](cs.md)
