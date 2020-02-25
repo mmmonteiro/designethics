@@ -50,6 +50,8 @@ Looking forward to your pull requests.
 
 * [Norsk Nynorsk](nn_NO.md)
 
+* [Polish](pl.md)
+
 * [Português do Brasil](pt_BR.md)
 
 * [Português de Portugal](pt_PT.md)
