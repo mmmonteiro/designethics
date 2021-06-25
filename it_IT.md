@@ -54,24 +54,25 @@ Il Design è una soluzione intenzionale ad un problema ottenuta operando all'int
 
 E l'empatia? Empatia è una bella parola da usare al posto di "esclusione". Se vuoi capire come una donna userebbe qualcosa che stai progettando, aggiungi una donna al gruppo di lavoro che sta lavorando al progetto.
 
-### A designer does not believe in edge cases.
+### Un designer non crede nei casi limite.
 
-When you decide who you’re designing for, you’re making an implicit statement about who you’re not designing for. For years we referred to people who weren’t crucial to our products’ success as “edge cases”. We were marginalizing people. And we were making a decision that there were people in the world whose problems weren’t worth solving.
+Quando decidi per chi è rivolto il design, stai implicitamente decidendo quali soggetti ne saranno esclusi. Per anni abbiamo considerato le persone che non erano centrali al successo dei nostri prodotti come "casi limite". Abbiamo emarginato delle persone. E abbiamo deciso che ci fossero persone nel mondo i cui problemi non erano meritevoli di essere risolti.
 
-Facebook now claims to have two billion users. 1% of two billion people, which most products would consider an edge case, is twenty million people. Those are the people at the margins.
+Facebook ora si vanta di avere 2 miliardi di utenti. L'1% di 2 miliardi di persone, che verrebbe considerato da molti prodotti come caso limite, è venti milioni di persone. Queste sono le persone emarginate.
 
-“When you call something an edge case, you’re really just defining the limits of what you care about.” — Eric Meyer
-These are the trans people who get caught on the edges of “real names” projects. These are the single moms who get caught on the edges of “both parents must sign” permission slips. These are the elderly immigrants who show up to vote and can’t get ballots in their native tongues.
+> “Quando chiami qualcosa un 'caso limite', stai effettivamente definendo i limiti di ciò a cui dai valore.”  —  Eric Meyer
 
-They are not edge cases. They are human beings, and we owe them our best work.
+Queste sono le persone transgender che si trovano a fronteggiare i casi "vero nome". Queste sono le mamme single coinvolte nelle situazioni “entrambi i genitori devono firmare”. Questi sono gli immigrati anziani che si presentano per votare e che non possono ottenere le schede elettorali tradotte nella loro lingua nativa.
 
-### A designer is part of a professional community.
+Loro non sono casi limite. Sono esseri umani e gli dobbiamo il meglio del nostro lavoro.
 
-You are part of a professional community and the way you do your job and handle yourself professionally affects everyone in that community. Just as a rising tide affects all boats, taking a shit in the pool affects all swimmers. If you are dishonest with a client or employer, the designer behind you will pay the price. If you work for free, the designer behind you will be expected to do the same. If you do not hold your ground on doing bad work, the designer behind you will have to work twice as hard to make up for it.
+### Un designer è parte di una comunità di professionisti.
 
-While a designer has an ethical obligation to earn a living to the best of their abilities and opportunities, doing it at the expense of others who share the craft is a disservice to us all. Never throw another designer under the bus to advance your own agenda. This includes public redesigns of someone else’s work, spec work, unsolicited work, and plagiarism.
+Sei parte di una comunità di professionisti e il modo in cui svolgi il tuo lavoro e gestisci la tua professionalità influenza tutti i membri. Proprio come la marea influenza tutte le barche, cagare in piscina influenza tutti i nuotatori. Se sei disonesto con un cliente o con un datore di lavoro, il designer che verrà dopo di te ne pagherà il prezzo. Se lavori gratis, al designer che verrà dopo di te verrà richiesto di fare la stessa cosa. Se cedi a fare un cattivo lavoro, il designer che verrà dopo di te dovrà sforzarsi il doppio per rimediare.
 
-A designer seeks to build the community, not divide it.
+Nonostante il designer abbia il diritto di guadagnarsi da vivere al meglio delle proprie abilità e opportunità, farlo a discapito degli altri che condividono il mestiere è un disservizio per tutti noi. Non essere scorretto nei confronti degli altri designer per trarne un vantaggio personale. Questo include i re-design pubblici del lavoro altrui, i bozzetti per prospect, ~~lavoro non richiesto~~ e plagio.
+
+Un designer aspira a costruire la comunità, non a dividerla.
 
 ### A designer welcomes a diverse and competitive field.
 
