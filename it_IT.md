@@ -70,7 +70,7 @@ Loro non sono casi limite. Sono esseri umani e gli dobbiamo il meglio del nostro
 
 Sei parte di una comunità di professionisti e il modo in cui svolgi il tuo lavoro e gestisci la tua professionalità influenza tutti i membri. Proprio come la marea influenza tutte le barche, cagare in piscina influenza tutti i nuotatori. Se sei disonesto con un cliente o con un datore di lavoro, il designer che verrà dopo di te ne pagherà il prezzo. Se lavori gratis, al designer che verrà dopo di te verrà richiesto di fare la stessa cosa. Se cedi a fare un cattivo lavoro, il designer che verrà dopo di te dovrà sforzarsi il doppio per rimediare.
 
-Nonostante il designer abbia il diritto di guadagnarsi da vivere al meglio delle proprie abilità e opportunità, farlo a discapito degli altri che condividono il mestiere è un disservizio per tutti noi. Non essere scorretto nei confronti degli altri designer per trarne un vantaggio personale. Questo include i re-design pubblici del lavoro altrui, i bozzetti per prospect, ~~lavoro non richiesto~~ e plagio.
+Nonostante il designer abbia il diritto di guadagnarsi da vivere al meglio delle proprie abilità e opportunità, farlo a discapito degli altri che condividono il mestiere è un disservizio per tutti noi. Non essere scorretto nei confronti degli altri designer per trarne un vantaggio personale. Questo include i re-design pubblici del lavoro altrui, i bozzetti per prospect e il plagio.
 
 Un designer aspira a costruire la comunità, non a dividerla.
 
