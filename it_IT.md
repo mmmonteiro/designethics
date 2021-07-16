@@ -74,18 +74,20 @@ Nonostante il designer abbia il diritto di guadagnarsi da vivere al meglio delle
 
 Un designer aspira a costruire la comunità, non a dividerla.
 
-### A designer welcomes a diverse and competitive field.
+### Un designer apprezza un settore competitivo e diversificato.
 
-Throughout their entire career, a designer seeks to learn. That means confronting what they do not know. That means listening to other people’s experiences. That means welcoming and encouraging people who come from diverse backgrounds, diverse cultures. That means making space at the table for people who society has historically kept down. We must make space for traditionally marginalized voices to be heard in the profession. Diversity leads to better outcomes and solutions. Diversity leads to better design.
+Nel corso della sua intera carriera, un designer aspira ad imparare. Significa confrontarsi con ciò che non sa. Significa ascoltare le esperienze delle altre persone. Significa accogliere e incoraggiare le persone che provengono da background e culture differenti. Significa dare spazio alle persone che la società ha storicamente escluso.
 
-A designer keeps their ego in check, knows when to shut up and listen, is aware of their own biases and welcomes having them checked, and fights to make room for those who have been silenced.
+Dobbiamo dar spazio alle voci storicamente marginalizzate per far sì che possano essere sentite nella nostra professione. La diversità porta a risultati e soluzioni migliori. La diversità porta a design migliori.
 
-### A designer takes time for self-reflection.
+Un designer tiene sempre a bada il proprio ego, sa quando chiudere la bocca e ascoltare. È consapevole dei suoi pregiudizi e ascolta i suggerimenti, e lotta per dare spazio a coloro che non sono stati ascoltati.
 
-No one wakes up one day designing to throw their ethics out the window. It happens slowly, one slippery slope at a time. It’s a series of small decisions that might even seem fine at the time, and before you know it you’re designing filtering UI for the Walmart online gun shop.
+### Un designer si prende del tempo per riflettere.
 
-Take the time for self-reflection every few months. Evaluate the decisions you’ve made recently. Are you staying true to who you are? Or are you slowly moving your ethical goal posts a few yards at a time with each raise or stock option award?
+Nessuno rinuncia alla propria etica da un giorno all'altro. È un processo che avviene lentamente, uno scivolone alla volta. È una serie di piccole decisioni che potrebbero perfino sembrare giuste in quel momento ma prima di accorgertene stai progettando l'interfaccia utente di ricerca per il negozio di armi di Walmart.
 
-Have you veered off course? Correct it. Is your workplace an unethical hellmouth? Get another one.
+Prenditi periodicamente del tempo per riflettere. Valuta le decisioni che hai preso recentemente. Sei rimasto fedele a te stesso? Oppure stai lentamente spostando i tuoi paletti etici un poco alla volta ad ogni promozione che ricevi?
 
-Your job is a choice. Please do it right.
+Sei andato fuori rotta? Correggila. Il tuo lavoro è dannatamente poco etico? Cercane un altro.
+
+Il tuo lavoro è una scelta. Fa che sia giusta.
