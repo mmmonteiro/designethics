@@ -63,3 +63,5 @@ Looking forward to your pull requests.
 * [Svenska](sv_SE.md)
 
 * [Türkçe](tr_TR.md)
+
+* [简体中文](zh_CN.md)
