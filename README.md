@@ -28,6 +28,8 @@ Looking forward to your pull requests.
 
 * [Bahasa Indonesia](id_ID.md)
 
+* [Català](ca_ES.md)
+
 * [Čeština](cs.md)
 
 * [Deutsch](de_DE.md)
