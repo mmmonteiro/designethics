@@ -20,7 +20,7 @@ Antes de ser designer, você é um ser humano. Como todo outro ser humano no pla
 
 Cada ser humano neste planeta é obrigado a fazer seu melhor e deixar este lugar em melhor estado do que quando chegou aqui, e designers não podem se isentar disso.
 
-Quando você faz um trabalho que depende de desigualdade de salário ou distinções de classe para ser bem sucedido, você está falhando em seu trabalho como cidadão e, portanto, como designer.
+Quando você faz um trabalho que depende de desigualdade de salário ou distinções de classe para ser bem sucedido, você está falhando em seu trabalho como uma pessoa cidadã e, portanto, como designer.
 
 ### Designers são responsáveis pelo trabalho que colocam no mundo.
 

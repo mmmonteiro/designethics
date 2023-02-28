@@ -19,17 +19,17 @@
 
 ### En designer är först och främst en mänsklig varelse.
 
-Före du är en designer, är du en mänsklig varelse. Som alla andra mänskliga varelser på den här planeten är du en del av det sociala kontraktet. Vi delar en planet. Genom att välja att bli designer väljer du att påverka de människor som kommer i kontakt med ditt arbete, du kan antingen hjälpa eller skada dem med dina handlingar. Den effekt som det du skapar har på samhället ska alltid tas stor hänsyn till i ditt arbete.
+Före du är en designer, är du en mänsklig varelse. Som alla andra mänskliga varelser på den här planeten är du en del av det sociala kontraktet. Vi delar en planet. Genom att välja att bli designer väljer du att påverka de människor som kommer i kontakt med ditt arbete. Du kan antingen hjälpa eller skada dem med dina handlingar. Ta alltid hänsyn till den effekt ditt skapande arbete har på samhället.
 
 Alla mänskliga varelser på den här planeten är förpliktigade att göra sitt bästa för att lämna planeten i ett bättre skick än vi fann den. Designers kan inte välja bort detta.
 
-När du utför arbete som, för att bli framgångsrikt, är beroende av inkomst- eller klasskillnader misslyckas du med ditt medborgerliga arbete, och därför också som designer.
+När du utför arbete som - för att bli framgångsrikt - är beroende av inkomst- eller klasskillnader misslyckas du med ditt medborgerliga arbete, och därför också som designer.
 
 
 
 ### En designer är ansvarig för det arbete hen tillför världen.
 
-Design är en handlingens och verkans disciplin. Du är ansvarig för vad du skapar och tillför världen. Det har ditt namn på sig. Även om det är omöjligt att förutse hur ditt arbete kommer att bli använt, borde det inte förvåna om arbete som är menat att skada någon, uppfyller sin uppgift. Vi kan inte förvånas när ett vapen vi designat dödar någon. Vi kan inte bli förvånade när en databas vi designat för att katalogisera flyktingar orsakar att dessa flyktingar blir deporterade. När vi medvetet skapar något vars syfte är att skada, avsäger vi oss vårt ansvar. När vi omedvetet skapar något som skadar andra för att vi inte tänkte igenom konsekvenserna av detta arbete, är vi dubbelt skyldiga.
+Design är en handlingens och verkans disciplin. Du är ansvarig för vad du skapar och tillför världen. Det har ditt namn på sig. Även om det är omöjligt att förutse hur ditt arbete kommer att bli använt, borde det inte förvåna om arbete som är menat att skada någon också uppfyller sin uppgift. Vi kan inte förvånas när ett vapen vi designat dödar någon. Vi kan inte bli förvånade när en databas vi designat för att katalogisera flyktingar orsakar att dessa flyktingar blir deporterade. När vi medvetet skapar något vars syfte är att skada avsäger vi oss vårt ansvar. När vi omedvetet skapar något som skadar andra för att vi inte tänkte igenom konsekvenserna av detta arbete, är vi dubbelt skyldiga.
 
 Arbetet som du tillför världen är ditt arv. Det kommer att överleva dig och det kommer att tala för dig.
 
@@ -43,9 +43,9 @@ Designers existerar inte i ett vakuum. Samhället är det största systemet vi k
 
 ### En designer är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt omdöme.
 
-När du anlitas för att designa någonting är du anlitad för din expertis. Ditt jobb är inte bara att utföra uppdraget utan att också överväga effekterna av det utförda arbetet. Ditt jobb är att vidarebefordra konsekvenserna av det utförda arbetet till uppdragsgivaren eller arbetsgivaren. Om dessa effekter är negativa är det ditt jobb att vidarebefordra detta till din uppdragsgivare och - om det är möjligt - eliminera de negativa effekterna av ditt arbete. Om det är omöjligt att eliminera de negativa effekterna av ditt arbete, är det ditt jobb att stoppa det från att se dagen ljus. Med andra ord, du är inte bara anlitad för att gräva ett dike, utan att även överväga de ekonomiska, sociologiska och ekologiska konsekvenserna av detta dike. Om diket inte uppfyller dina krav är det ditt jobb att förstöra spadarna.
+När du anlitas för att designa någonting är du anlitad för din expertis. Ditt jobb är inte bara att utföra uppdraget, utan att också överväga effekterna av det utförda arbetet. Ditt jobb är att vidarebefordra konsekvenserna av det utförda arbetet till uppdragsgivaren eller arbetsgivaren. Om dessa effekter är negativa är det ditt jobb att vidarebefordra detta till din uppdragsgivare och - om det är möjligt - eliminera de negativa effekterna av ditt arbete. Om det är omöjligt att eliminera de negativa effekterna av ditt arbete, är det ditt jobb att stoppa det från att se dagen ljus. Med andra ord, du är inte bara anlitad för att gräva ett dike utan också för att överväga de ekonomiska, sociologiska och ekologiska konsekvenserna av detta dike. Om diket inte uppfyller dina krav är det ditt jobb att förstöra spadarna.
 
-En designer använder sin expertis som en service till andra utan att vara en tjänare. Att säga nej är en designkompetens. Att fråga varför är en designkompetens. Att himla med ögonen är inte en designkompetens. Att fråga sig själv varför vi skapar någonting är en oändligt mycket bättre fråga att ställa än att fråga sig själv huruvida det är möjligt att skapa någonting. 
+En designer använder sin expertis som en service till andra, utan att vara en tjänare. Att säga nej är en designkompetens. Att fråga varför är en designkompetens. Att himla med ögonen är inte en designkompetens. Att fråga sig själv varför vi skapar någonting är en oändligt mycket bättre fråga att ställa än att fråga sig själv huruvida det är möjligt att skapa någonting. 
 
 
 ### En designer välkomnar kritik.
@@ -66,7 +66,7 @@ Men empati då? Empati är en vacker omskrivning för uteslutande. Om du till ex
 
 ### En designer tror inte på extremfall.
 
-När du bestämt vem du designar för gör du ett underförstått påstående om vem du inte designar för. Länge benämnde vi de människor som inte var avgörande för vår produkts framgång som "extremfall". Vi marginaliserade människor och vi tog ett beslut om att det fanns människor i världen vars problem inte var värda att försöka lösa.
+När du bestämt vem du designar för gör du också en underförstådd avgränsning av vem du inte designar för. Länge benämnde vi de människor som inte var avgörande för vår produkts framgång som "extremfall". Vi marginaliserade människor och vi tog ett beslut om att det fanns människor i världen vars problem inte var värda att försöka lösa.
 
 Facebook påstår sig ha två miljarder användare. En procent av två miljarder, som många skulle se som extremfall, utgör tjugo miljoner människor. Dessa är människorna vid marginalen.
 
@@ -88,9 +88,9 @@ En designer försöker bygga en gemenskap, inte att splittra den.
 
 ### En designer välkomnar ett fält präglat av mångfald och konkurrenskraft.
 
-Genom hela sin karriär försöker en designer att lära. Det innebär att konfrontera det hen inte vet. Det innebär att lyssna till andra människors erfarenheter. Det innebär att välkomna och uppmuntra människor med olika bakgrund, från olika kulturer. Det innebär att göra plats vid bordet för de människor som samhället historisk har förtryckt. Vi måste låta traditionellt marginaliserade röster höras i professionen. Mångfald leder till bättre resultat och lösningar. Mångfald leder till bättre design.
+Genom hela sin karriär försöker en designer att lära. Det innebär att konfrontera det hen inte vet. Det innebär att lyssna till andra människors erfarenheter. Det innebär att välkomna och uppmuntra människor med olika bakgrund, från olika kulturer. Det innebär att göra plats vid bordet för de människor som samhället historiskt har förtryckt. Vi måste låta traditionellt marginaliserade röster höras i professionen. Mångfald leder till bättre resultat och lösningar. Mångfald leder till bättre design.
 
-En designer håller koll på sitt ego, vet när det är dags att hålla tyst och lyssna, är medveten om sina egna fördomar, välkomnar ifrågasättande av dem och slåss för att göra plats för de som tidigare inte fått höras.
+En designer håller koll på sitt ego, vet när det är dags att hålla tyst och lyssna, är medveten om sina egna fördomar, välkomnar ifrågasättande av dem och slåss för att göra plats för dem som tidigare inte fått höras.
 
 
 ### En designer tar sig tid för självreflektion.

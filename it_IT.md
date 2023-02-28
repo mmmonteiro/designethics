@@ -1,19 +1,19 @@
 # Il Codice Etico del Designer
 
-* [Il designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)
-* [Il designer è responsabile del lavoro che immette nel mondo.](#il-designer-è-responsabile-del-lavoro-che-immette-nel-mondo)
-* [Il designer tiene più all'impatto che alla forma.](#il-designer-preferisce-leffetto-allo-stile)
-* [Il designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
-* [Il designer accoglie le critiche.](#a-designer-welcomes-criticism)
-* [Il designer ambisce a conoscere il proprio pubblico.](#a-designer-strives-to-know-their-audience)
-* [Il designer non crede nei casi limite.](#a-designer-does-not-believe-in-edge-cases)
-* [Il designer fa parte di una comunità di professionisti.](#a-designer-is-part-of-a-professional-community)
-* [Il designer accoglie la diversità e la competitività nel suo campo.](#a-designer-welcomes-a-diverse-and-competitive-field)
-* [Il designer dedica tempo all'autoriflessione.](#a-designer-takes-time-for-self-reflection)
+* [Un designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)
+* [Un designer è responsabile del lavoro che immette nel mondo.](#il-designer-è-responsabile-del-lavoro-che-immette-nel-mondo)
+* [Un designer tiene più all'impatto che alla forma.](#il-designer-preferisce-leffetto-allo-stile)
+* [Un designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
+* [Un designer accoglie le critiche.](#a-designer-welcomes-criticism)
+* [Un designer ambisce a conoscere il proprio pubblico.](#a-designer-strives-to-know-their-audience)
+* [Un designer non crede nei casi limite.](#a-designer-does-not-believe-in-edge-cases)
+* [Un designer fa parte di una comunità di professionisti.](#a-designer-is-part-of-a-professional-community)
+* [Un designer accoglie la diversità e la competitività nel suo campo.](#a-designer-welcomes-a-diverse-and-competitive-field)
+* [Un designer dedica tempo all'autoriflessione.](#a-designer-takes-time-for-self-reflection)
 
 ---
 
-### Il designer è prima di tutto un essere umano.
+### Un designer è prima di tutto un essere umano.
 
 Prima di essere un designer, sei un essere umano. Come ogni altro essere umano, fai parte di un contratto sociale. Tutti noi condividiamo lo stesso pianeta. Scegliendo di essere un designer scegli di avere un impatto sulle persone che entrano in contatto con il tuo lavoro, puoi aiutarle o danneggiarle con le tua azioni. Gli effetti di ciò che immetti nel tessuto della società dovrebbero sempre essere una considerazione chiave del tuo lavoro.
 
@@ -21,19 +21,19 @@ Ogni essere umano su questo pianeta è obbligato a fare del proprio meglio per l
 
 Quando fai un lavoro che per avere successo implica disparità di stipendio o distinzioni di classe, stai fallendo nel tuo ruolo di cittadino e, conseguentemente, di designer.
 
-### Il designer è responsabile del lavoro che immette nel mondo.
+### Un designer è responsabile del lavoro che immette nel mondo.
 
 Il design è una disciplina d'azione. Sei responsabile per ciò che immetti nel mondo. Ha il tuo nome sovraimpresso. E mentre è di fatto impossibile predire come possa essere usato il tuo lavoro, non dovrebbe sorprendere se quando tale lavoro è fatto per danneggiare qualcuno, riesce poi nel suo intento. Non possiamo sorprenderci se una pistola che abbiamo progettato uccide poi qualcuno. Non possiamo sorprenderci quando un database che abbiamo progettato per schedare gli immigrati porta poi alla loro deportazione. Quando produciamo deliberatamente un lavoro che ha l'intento di danneggiare, stiamo abdicando alle nostre responsabilità. Quando, per ignoranza, produciamo un lavoro che danneggia altri perché non ne abbiamo considerato la completa ramificazione, ci dobbiamo sentire doppiamente colpevoli.
 
 Il lavoro che porti nel mondo è la tua eredità. Continuerà a vivere dopo di te. E parlerà per te.
 
-### Il designer preferisce l'effetto allo stile
+### Un designer preferisce l'effetto allo stile
 
 Dobbiamo temere le conseguenze del nostro lavoro più di quanto amiamo l'astuzia delle nostre idee.
 
 Il design non esiste nel vuoto. La società è il sistema più grande sul quale possiamo avere un effetto e tutto ciò che fai è parte di quel sistema, sia il bello che il brutto. Alla fine dobbiamo giudicare il valore del nostro lavoro basandoci su quell'effetto, piuttosto che su qualunque considerazione di natura estetica. Un oggetto che è stato progettato per provocare del danno alle persone non può essere considerato "ben progettato", non importa quanto esteticamente accattivante esso possa apparire, perché per progettarlo adeguatamente lo si progetta per provocare del danno agli altri. Qualunque cosa venga progettata da un regime totalitario non è "ben progettata" perché è stata progettata da un regime totalitario.
 
-### Il designer deve non solo il proprio lavoro, ma anche il proprio consiglio, alle persone che lo impiegano.
+### Un designer deve non solo il proprio lavoro, ma anche il proprio consiglio, alle persone che lo impiegano.
 
 Quando vieni assunto per progettare qualcosa, vieni assunto per la tua competenza. Il tuo lavoro non è unicamente quello di portare a termine il progetto, ma di valutarne anche l'impatto. Il tuo lavoro comprende anche comunicare l'entità di tale impatto al tuo cliente o datore di lavoro. E fosse, tale impatto, negativo è parte del tuo lavoro comunicarlo al tuo cliente in modo, se possibile, di eliminarlo.
 In caso fosse impossibile eliminare questo impatto negativo, è il tuo lavoro prevenire che il progetto stesso veda la luce del giorno. In altre parole, non vieni unicamente impiegato per scavare una buca, ma per valutarne l'impatto economico, sociologico ed ecologico. Se la buca non passa questi test, il tuo lavoro è di distruggere le vanghe.
@@ -54,37 +54,36 @@ Il Design è una soluzione intenzionale ad un problema ottenuta operando all'int
 
 E l'empatia? Empatia è una bella parola da usare al posto di "esclusione". Se vuoi capire come una donna userebbe qualcosa che stai progettando, aggiungi una donna al gruppo di lavoro che sta lavorando al progetto.
 
-### A designer does not believe in edge cases.
+### Un designer non crede nei casi limite.
 
-When you decide who you’re designing for, you’re making an implicit statement about who you’re not designing for. For years we referred to people who weren’t crucial to our products’ success as “edge cases”. We were marginalizing people. And we were making a decision that there were people in the world whose problems weren’t worth solving.
+Quando decidi per chi stai progettando, stai facendo una dichiarazione implicita su chi non stai progettando. Per anni abbiamo chiamato “casi limite” le persone che non erano determinanti per il successo dei nostri prodotti. Stavamo emarginando le persone. E stavamo prendendo la decisione che c'erano persone nel mondo i cui problemi non valevano la pena di essere risolti.
 
-Facebook now claims to have two billion users. 1% of two billion people, which most products would consider an edge case, is twenty million people. Those are the people at the margins.
+Facebook ora afferma di avere due miliardi di utenti. L'1% di due miliardi di persone, che la maggior parte dei prodotti considererebbe un caso limite, è di venti milioni di persone. Quelle sono le persone ai margini.
 
-“When you call something an edge case, you’re really just defining the limits of what you care about.” — Eric Meyer
-These are the trans people who get caught on the edges of “real names” projects. These are the single moms who get caught on the edges of “both parents must sign” permission slips. These are the elderly immigrants who show up to vote and can’t get ballots in their native tongues.
+"Quando chiami qualcosa un caso limite, stai solo definendo i limiti di ciò a cui tieni". — Eric Meyer. Queste sono le persone trans che rimangono intrappolate ai margini dei progetti con "nomi veri". Queste sono le mamme single che rimangono intrappolate ai margini delle schede di autorizzazione "entrambi i genitori devono firmare". Questi sono gli immigrati anziani che si presentano per votare e non possono ottenere schede nelle loro lingue native.
 
-They are not edge cases. They are human beings, and we owe them our best work.
+Non sono casi limite. Sono esseri umani e dobbiamo loro il nostro miglior lavoro.
 
-### A designer is part of a professional community.
+### Un designer fa parte di una comunità professionale.
 
-You are part of a professional community and the way you do your job and handle yourself professionally affects everyone in that community. Just as a rising tide affects all boats, taking a shit in the pool affects all swimmers. If you are dishonest with a client or employer, the designer behind you will pay the price. If you work for free, the designer behind you will be expected to do the same. If you do not hold your ground on doing bad work, the designer behind you will have to work twice as hard to make up for it.
+Fai parte di una comunità professionale e il modo in cui svolgi il tuo lavoro e ti comporti professionalmente influisce su tutti in quella comunità. Proprio come una marea crescente colpisce tutte le barche, cagare in piscina colpisce tutti i nuotatori. Se sei disonesto con un cliente o un datore di lavoro, il designer dietro di te ne pagherà il prezzo. Se lavori gratis, il designer dietro di te dovrà fare lo stesso. Se non mantieni la tua posizione nel fare un cattivo lavoro, il designer dietro di te dovrà lavorare il doppio per rimediare.
 
-While a designer has an ethical obligation to earn a living to the best of their abilities and opportunities, doing it at the expense of others who share the craft is a disservice to us all. Never throw another designer under the bus to advance your own agenda. This includes public redesigns of someone else’s work, spec work, unsolicited work, and plagiarism.
+Mentre un designer ha l'obbligo etico di guadagnarsi da vivere al meglio delle proprie capacità e opportunità, farlo a spese di altri che condividono il mestiere è un disservizio per tutti noi. Non buttare mai un altro designer sotto l'autobus per portare avanti la tua agenda. Ciò include le riprogettazioni pubbliche del lavoro di qualcun altro, il lavoro su specifiche, il lavoro non richiesto e il plagio.
 
-A designer seeks to build the community, not divide it.
+Un designer cerca di costruire la comunità, non di dividerla.
 
-### A designer welcomes a diverse and competitive field.
+### Un designer accoglie ambiti diversi e competitivi.
 
-Throughout their entire career, a designer seeks to learn. That means confronting what they do not know. That means listening to other people’s experiences. That means welcoming and encouraging people who come from diverse backgrounds, diverse cultures. That means making space at the table for people who society has historically kept down. We must make space for traditionally marginalized voices to be heard in the profession. Diversity leads to better outcomes and solutions. Diversity leads to better design.
+Durante tutta la sua carriera, un designer cerca di imparare. Ciò significa confrontarsi con ciò che non conoscono. Ciò significa ascoltare le esperienze degli altri. Ciò significa accogliere e incoraggiare persone che provengono da ambienti e culture diverse. Ciò significa dare spazio a tavola a persone che la società storicamente ha tenuto a bada. Dobbiamo dare spazio a voci tradizionalmente emarginate nella professione. La diversità porta a risultati e soluzioni migliori. La diversità porta a un design migliore.
 
-A designer keeps their ego in check, knows when to shut up and listen, is aware of their own biases and welcomes having them checked, and fights to make room for those who have been silenced.
+Un designer tiene sotto controllo il proprio ego, sa quando stare zitto e ascoltare, è consapevole dei propri pregiudizi e si compiace di farli controllare, e lotta per fare spazio a coloro che sono stati messi a tacere.
 
-### A designer takes time for self-reflection.
+### Un designer ha bisogno di tempo per riflettere su se stesso.
 
-No one wakes up one day designing to throw their ethics out the window. It happens slowly, one slippery slope at a time. It’s a series of small decisions that might even seem fine at the time, and before you know it you’re designing filtering UI for the Walmart online gun shop.
+Nessuno si sveglia un giorno pensando di buttare la propria etica fuori dalla finestra. Succede lentamente, un pendio scivoloso alla volta. È una serie di piccole decisioni che potrebbero anche sembrare buone al momento, e prima che tu te ne accorga stai progettando l'interfaccia dei filtri del negozio di armi online Walmart.
 
-Take the time for self-reflection every few months. Evaluate the decisions you’ve made recently. Are you staying true to who you are? Or are you slowly moving your ethical goal posts a few yards at a time with each raise or stock option award?
+Prenditi del tempo per riflettere su te stesso di tanto in tanto. Valuta le decisioni che hai preso di recente. Rimani fedele a chi sei? O stai lentamente spostando i tuoi obiettivi etici di pochi metri alla volta ad ogni rilancio?
 
-Have you veered off course? Correct it. Is your workplace an unethical hellmouth? Get another one.
+Hai virato fuori rotta? Correggilo. Il tuo posto di lavoro è una bocca infernale immorale? Prendi un altro.
 
-Your job is a choice. Please do it right.
+Il tuo lavoro è una scelta. Per favore, fallo bene.
